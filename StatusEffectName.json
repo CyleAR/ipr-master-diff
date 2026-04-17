@@ -1,0 +1,286 @@
+[
+  {
+    "statusEffectType": 1,
+    "name": "ダンス上昇"
+  },
+  {
+    "statusEffectType": 2,
+    "name": "ボーカル上昇"
+  },
+  {
+    "statusEffectType": 3,
+    "name": "ビジュアル上昇"
+  },
+  {
+    "statusEffectType": 4,
+    "name": "スコア上昇"
+  },
+  {
+    "statusEffectType": 5,
+    "name": "ビートスコア上昇"
+  },
+  {
+    "statusEffectType": 6,
+    "name": "Aスキルスコア上昇"
+  },
+  {
+    "statusEffectType": 7,
+    "name": "クリティカル率上昇"
+  },
+  {
+    "statusEffectType": 8,
+    "name": "クリティカル係数上昇"
+  },
+  {
+    "statusEffectType": 9,
+    "name": "消費スタミナ低下"
+  },
+  {
+    "statusEffectType": 10,
+    "name": "コンボ継続"
+  },
+  {
+    "statusEffectType": 11,
+    "name": "集目"
+  },
+  {
+    "statusEffectType": 12,
+    "name": "SPスキルスコア上昇"
+  },
+  {
+    "statusEffectType": 13,
+    "name": "スキル成功率上昇"
+  },
+  {
+    "statusEffectType": 14,
+    "name": "テンションUP"
+  },
+  {
+    "statusEffectType": 15,
+    "name": "低下効果防止"
+  },
+  {
+    "statusEffectType": 16,
+    "name": "コンボスコア上昇"
+  },
+  {
+    "statusEffectType": 17,
+    "name": "Pスキルスコア上昇"
+  },
+  {
+    "statusEffectType": 18,
+    "name": "ボーカルブースト"
+  },
+  {
+    "statusEffectType": 19,
+    "name": "ダンスブースト"
+  },
+  {
+    "statusEffectType": 20,
+    "name": "ビジュアルブースト"
+  },
+  {
+    "statusEffectType": 21,
+    "name": "SPスキルスコア追加"
+  },
+  {
+    "statusEffectType": 22,
+    "name": "Aスキルスコア追加"
+  },
+  {
+    "statusEffectType": 23,
+    "name": "Pスキルスコア追加"
+  },
+  {
+    "statusEffectType": 24,
+    "name": "スタミナ継続回復"
+  },
+  {
+    "statusEffectType": 25,
+    "name": "Aスキルチャンス譲渡"
+  },
+  {
+    "statusEffectType": 26,
+    "name": "カバー"
+  },
+  {
+    "statusEffectType": 27,
+    "name": "ダンス上昇上限開放"
+  },
+  {
+    "statusEffectType": 28,
+    "name": "ボーカル上昇上限開放"
+  },
+  {
+    "statusEffectType": 29,
+    "name": "ビジュアル上昇上限開放"
+  },
+  {
+    "statusEffectType": 30,
+    "name": "ビートスコア上昇上限開放"
+  },
+  {
+    "statusEffectType": 31,
+    "name": "Aスキルスコア上昇上限開放"
+  },
+  {
+    "statusEffectType": 32,
+    "name": "クリティカル係数上昇上限開放"
+  },
+  {
+    "statusEffectType": 33,
+    "name": "集目上限開放"
+  },
+  {
+    "statusEffectType": 34,
+    "name": "SPスキルスコア上昇上限開放"
+  },
+  {
+    "statusEffectType": 35,
+    "name": "スキル成功率上昇上限開放"
+  },
+  {
+    "statusEffectType": 36,
+    "name": "テンションUP上限開放"
+  },
+  {
+    "statusEffectType": 37,
+    "name": "コンボスコア上昇上限開放"
+  },
+  {
+    "statusEffectType": 38,
+    "name": "Pスキルスコア上昇上限開放"
+  },
+  {
+    "statusEffectType": 39,
+    "name": "ボーカルブースト上限開放"
+  },
+  {
+    "statusEffectType": 40,
+    "name": "ダンスブースト上限開放"
+  },
+  {
+    "statusEffectType": 41,
+    "name": "ビジュアルブースト上限開放"
+  },
+  {
+    "statusEffectType": 42,
+    "name": "ステルス上限開放"
+  },
+  {
+    "statusEffectType": 43,
+    "name": "スコア上昇上限開放"
+  },
+  {
+    "statusEffectType": 44,
+    "name": "スコア上昇超化"
+  },
+  {
+    "statusEffectType": 45,
+    "name": "ダンス上昇超化"
+  },
+  {
+    "statusEffectType": 46,
+    "name": "ボーカル上昇超化"
+  },
+  {
+    "statusEffectType": 47,
+    "name": "ビジュアル上昇超化"
+  },
+  {
+    "statusEffectType": 48,
+    "name": "ビートスコア上昇超化"
+  },
+  {
+    "statusEffectType": 49,
+    "name": "Aスキルスコア上昇超化"
+  },
+  {
+    "statusEffectType": 50,
+    "name": "クリティカル係数上昇超化"
+  },
+  {
+    "statusEffectType": 51,
+    "name": "集目超化"
+  },
+  {
+    "statusEffectType": 52,
+    "name": "SPスキルスコア上昇超化"
+  },
+  {
+    "statusEffectType": 53,
+    "name": "スキル成功率上昇超化"
+  },
+  {
+    "statusEffectType": 54,
+    "name": "Pスキルスコア上昇超化"
+  },
+  {
+    "statusEffectType": 55,
+    "name": "ステルス超化"
+  },
+  {
+    "statusEffectType": 56,
+    "name": "低下効果反射"
+  },
+  {
+    "statusEffectType": 57,
+    "name": "ビートブースト"
+  },
+  {
+    "statusEffectType": 58,
+    "name": "テンションアップ超化"
+  },
+  {
+    "statusEffectType": 59,
+    "name": "ScoreGetByStrengthEffectCountの対象強化効果数の上限増加"
+  },
+  {
+    "statusEffectType": 1001,
+    "name": "ダンス低下"
+  },
+  {
+    "statusEffectType": 1002,
+    "name": "ボーカル低下"
+  },
+  {
+    "statusEffectType": 1003,
+    "name": "ビジュアル低下"
+  },
+  {
+    "statusEffectType": 1004,
+    "name": "不調"
+  },
+  {
+    "statusEffectType": 1005,
+    "name": "スタミナ消費増加"
+  },
+  {
+    "statusEffectType": 1006,
+    "name": "ステルス"
+  },
+  {
+    "statusEffectType": 1007,
+    "name": "スタミナ継続消費"
+  },
+  {
+    "statusEffectType": 1008,
+    "name": "強化効果段階数制限"
+  },
+  {
+    "statusEffectType": 1009,
+    "name": "Pスキル封印"
+  },
+  {
+    "statusEffectType": 1010,
+    "name": "ダンス低下の強化"
+  },
+  {
+    "statusEffectType": 1011,
+    "name": "ボーカル低下の強化"
+  },
+  {
+    "statusEffectType": 1012,
+    "name": "ビジュアル低下の強化"
+  }
+]

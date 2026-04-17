@@ -1,0 +1,258 @@
+[
+  {
+    "cardId": "card-hrk-05-link-00",
+    "number": 1,
+    "characterId": "char-hrk",
+    "evolveMessage": "麻奈ちゃんと同じ舞台に\n立てる日がくるって、信じるわ",
+    "voiceAssetId": "sud_vo_cmn_hrk-05-link-00_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-hrk-05-link-00",
+    "number": 2,
+    "characterId": "char-mna",
+    "evolveMessage": "遙子ちゃんが次に泣く時は、\n喜びの嬉し涙だよ",
+    "voiceAssetId": "sud_vo_cmn_hrk-05-link-00_b_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-hrk-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-hrk",
+    "evolveMessage": "やっと同じ舞台に立てたわ",
+    "voiceAssetId": "sud_vo_cmn_hrk-05-link-00_evolution-01"
+  },
+  {
+    "cardId": "card-hrk-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-mna",
+    "evolveMessage": "この日が来るのを待ってたよ",
+    "voiceAssetId": "sud_vo_cmn_hrk-05-link-00_evolution-02"
+  },
+  {
+    "cardId": "card-kan-05-link-00",
+    "number": 1,
+    "characterId": "char-kan",
+    "evolveMessage": "さ～て、このバカ面に\nなんて描いてやろうか",
+    "voiceAssetId": "sud_vo_cmn_kan-05-link-00_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-kan-05-link-00",
+    "number": 2,
+    "characterId": "char-kkr",
+    "evolveMessage": "顔に落書きは反則ですよ！？",
+    "voiceAssetId": "sud_vo_cmn_kan-05-link-00_b_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-kan-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-kan",
+    "evolveMessage": "やれるよね～？",
+    "voiceAssetId": "sud_vo_cmn_kan-05-link-00_evolution-01"
+  },
+  {
+    "cardId": "card-kan-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-kkr",
+    "evolveMessage": "当然です！",
+    "voiceAssetId": "sud_vo_cmn_kan-05-link-00_evolution-02"
+  },
+  {
+    "cardId": "card-kkr-05-link-00",
+    "number": 1,
+    "characterId": "char-kkr",
+    "evolveMessage": "咲き誇る二人の姿、\n目に焼きつけて下さいね！",
+    "voiceAssetId": "sud_vo_cmn_kkr-05-link-00_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-kkr-05-link-00",
+    "number": 2,
+    "characterId": "char-ai",
+    "evolveMessage": "この夏で一番、\n熱いステージに\nしてみせますから！",
+    "voiceAssetId": "sud_vo_cmn_kkr-05-link-00_b_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-kkr-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-kkr",
+    "evolveMessage": "合宿の成果！",
+    "voiceAssetId": "sud_vo_cmn_kkr-05-link-00_evolution-01"
+  },
+  {
+    "cardId": "card-kkr-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-ai",
+    "evolveMessage": "見てもらおうね！",
+    "voiceAssetId": "sud_vo_cmn_kkr-05-link-00_evolution-02"
+  },
+  {
+    "cardId": "card-mna-05-link-00",
+    "number": 1,
+    "characterId": "char-mna",
+    "evolveMessage": "琴乃は、私の自慢の妹だよ",
+    "evolutionLevel": 0,
+    "voiceAssetId": ""
+  },
+  {
+    "cardId": "card-mna-05-link-00",
+    "number": 2,
+    "characterId": "char-ktn",
+    "evolveMessage": "……っ、お姉ちゃん……",
+    "voiceAssetId": "sud_vo_cmn_mna-05-link-00_gacha-get-02",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-mna-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-mna",
+    "evolveMessage": "行くよ、琴乃！",
+    "voiceAssetId": ""
+  },
+  {
+    "cardId": "card-mna-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-ktn",
+    "evolveMessage": "待ってよ、お姉ちゃん！",
+    "voiceAssetId": "sud_vo_cmn_mna-05-link-00_evolution-02"
+  },
+  {
+    "cardId": "card-ski-05-link-00",
+    "number": 1,
+    "characterId": "char-ski",
+    "evolveMessage": "千紗、かゆいところない？",
+    "voiceAssetId": "sud_vo_cmn_ski-05-link-00_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-ski-05-link-00",
+    "number": 2,
+    "characterId": "char-chs",
+    "evolveMessage": "うん、次は私が洗ってあげるね？",
+    "voiceAssetId": "sud_vo_cmn_ski-05-link-00_b_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-ski-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-ski",
+    "evolveMessage": "いくわよ、千紗",
+    "voiceAssetId": "sud_vo_cmn_ski-05-link-00_evolution-01"
+  },
+  {
+    "cardId": "card-ski-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-chs",
+    "evolveMessage": "一緒に頑張ろう、お姉ちゃん！",
+    "voiceAssetId": "sud_vo_cmn_ski-05-link-00_evolution-02"
+  },
+  {
+    "cardId": "card-suz-05-link-00",
+    "number": 1,
+    "characterId": "char-suz",
+    "evolveMessage": "ど、どうしてそんなに、\n芽衣の車は速いんですの！？",
+    "voiceAssetId": "sud_vo_cmn_suz-05-link-00_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-suz-05-link-00",
+    "number": 2,
+    "characterId": "char-mei",
+    "evolveMessage": "あはは、今度は\nすずにゃんが\n追いかける側だね～",
+    "voiceAssetId": "sud_vo_cmn_suz-05-link-00_b_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-suz-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-suz",
+    "evolveMessage": "これがわんにゃんツインズの！",
+    "voiceAssetId": "sud_vo_cmn_suz-05-link-00_evolution-01"
+  },
+  {
+    "cardId": "card-suz-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-mei",
+    "evolveMessage": "ワクワクな魅力だよ～！",
+    "voiceAssetId": "sud_vo_cmn_suz-05-link-00_evolution-02"
+  },
+  {
+    "cardId": "card-szk-05-link-00",
+    "number": 1,
+    "characterId": "char-szk",
+    "evolveMessage": "私の青春には、\nいつも隣に\n千紗ちゃんがいてくれた",
+    "voiceAssetId": "sud_vo_cmn_szk-05-link-00_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-szk-05-link-00",
+    "number": 2,
+    "characterId": "char-chs",
+    "evolveMessage": "私が勇気を出せるのは、\n雫ちゃんのおかげだよ",
+    "voiceAssetId": "sud_vo_cmn_szk-05-link-00_b_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-szk-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-szk",
+    "evolveMessage": "私達の関係は――",
+    "voiceAssetId": "sud_vo_cmn_szk-05-link-00_evolution-01"
+  },
+  {
+    "cardId": "card-szk-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-chs",
+    "evolveMessage": "――もちろん、親友だよ！",
+    "voiceAssetId": "sud_vo_cmn_szk-05-link-00_evolution-02"
+  },
+  {
+    "cardId": "card-yu-05-link-00",
+    "number": 1,
+    "characterId": "char-yu",
+    "evolveMessage": "うち、\nやっぱり瑠依ちゃんが大好きや",
+    "voiceAssetId": "sud_vo_cmn_yu-05-link-00_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-yu-05-link-00",
+    "number": 2,
+    "characterId": "char-rui",
+    "evolveMessage": "私はもっとあなたが好きになった",
+    "voiceAssetId": "sud_vo_cmn_yu-05-link-00_b_gacha-get",
+    "evolutionLevel": 0
+  },
+  {
+    "cardId": "card-yu-05-link-00",
+    "evolutionLevel": 1,
+    "number": 1,
+    "characterId": "char-yu",
+    "evolveMessage": "これからも一緒に",
+    "voiceAssetId": "sud_vo_cmn_yu-05-link-00_evolution-01"
+  },
+  {
+    "cardId": "card-yu-05-link-00",
+    "evolutionLevel": 1,
+    "number": 2,
+    "characterId": "char-rui",
+    "evolveMessage": "えぇ、一緒に行きましょう、優",
+    "voiceAssetId": "sud_vo_cmn_yu-05-link-00_evolution-02"
+  }
+]

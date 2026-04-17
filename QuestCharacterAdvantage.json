@@ -1,0 +1,896 @@
+[
+  {
+    "id": "quest_character_advantage_1",
+    "characterGroupId": "character_group_1",
+    "characterIds": [
+      "char-ktn"
+    ],
+    "advantagePermil": 1000
+  },
+  {
+    "id": "quest_character_advantage_1-1250",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 1250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-1300",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-mei",
+      "char-suz",
+      "char-ski"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-1500",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 1500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-1750",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 1750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-2000",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 2000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-2250",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 2250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-2500",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 2500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-2750",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 2750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-3000",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 3000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-3250",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 3250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_1-3500",
+    "characterIds": [
+      "char-ktn",
+      "char-ngs",
+      "char-ski",
+      "char-suz",
+      "char-mei"
+    ],
+    "advantagePermil": 3500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-1250",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 1250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-1300",
+    "characterIds": [
+      "char-skr",
+      "char-chs",
+      "char-rei",
+      "char-szk",
+      "char-hrk"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-1500",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 1500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-1750",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 1750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-2000",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 2000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-2250",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 2250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-2500",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 2500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-2750",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 2750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-3000",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 3000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-3250",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 3250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_2-3500",
+    "characterIds": [
+      "char-skr",
+      "char-szk",
+      "char-chs",
+      "char-rei",
+      "char-hrk"
+    ],
+    "advantagePermil": 3500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-1250",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 1250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-1300",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-1500",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 1500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-1750",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 1750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-2000",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 2000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-2250",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 2250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-2500",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 2500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-2750",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 2750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-3000",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 3000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-3250",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 3250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_3-3500",
+    "characterIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "advantagePermil": 3500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-1250",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 1250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-1300",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-1500",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 1500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-1750",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 1750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-2000",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 2000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-2250",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 2250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-2500",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 2500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-2750",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 2750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-3000",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 3000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-3250",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 3250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_4-3500",
+    "characterIds": [
+      "char-rio",
+      "char-aoi",
+      "char-ai",
+      "char-kkr"
+    ],
+    "advantagePermil": 3500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-1000",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 1000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-1250",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 1250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-1300",
+    "characterIds": [
+      "char-kor",
+      "char-mhk",
+      "char-kan"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-1500",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 1500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-1750",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 1750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-2000",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 2000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-2250",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 2250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-2500",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 2500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-2750",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 2750,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-3000",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 3000,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-3250",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 3250,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_5-3500",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk"
+    ],
+    "advantagePermil": 3500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_6-1300",
+    "characterIds": [
+      "char-ktn",
+      "char-skr",
+      "char-rui",
+      "char-rio",
+      "char-kor"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-ai-1300",
+    "characterIds": [
+      "char-ai"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-aoi-1300",
+    "characterIds": [
+      "char-aoi"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-cca-1300",
+    "characterIds": [
+      "char-cca"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-chk-1300",
+    "characterIds": [
+      "char-chk"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-chn-1300",
+    "characterIds": [
+      "char-chn"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-chs-1300",
+    "characterIds": [
+      "char-chs"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-hrk-1300",
+    "characterIds": [
+      "char-hrk"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-kan-1300",
+    "characterIds": [
+      "char-kan"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-kkr-1300",
+    "characterIds": [
+      "char-kkr"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-kor-1300",
+    "characterIds": [
+      "char-kor"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-ktn-1300",
+    "characterIds": [
+      "char-ktn"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-mei-1300",
+    "characterIds": [
+      "char-mei"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-mhk-1300",
+    "characterIds": [
+      "char-mhk"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-mku-1300",
+    "characterIds": [
+      "char-mku"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-mna-1300",
+    "characterIds": [
+      "char-mna"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-ngs-1300",
+    "characterIds": [
+      "char-ngs"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-rei-1300",
+    "characterIds": [
+      "char-rei"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-rik-1300",
+    "characterIds": [
+      "char-rik"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-rio-1300",
+    "characterIds": [
+      "char-rio"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-rui-1300",
+    "characterIds": [
+      "char-rui"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-ski-1300",
+    "characterIds": [
+      "char-ski"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-skr-1300",
+    "characterIds": [
+      "char-skr"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-smr-1300",
+    "characterIds": [
+      "char-smr"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-suz-1300",
+    "characterIds": [
+      "char-suz"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-szk-1300",
+    "characterIds": [
+      "char-szk"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-ymk-1300",
+    "characterIds": [
+      "char-ymk"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-yo-1300",
+    "characterIds": [
+      "char-yo"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_char-yu-1300",
+    "characterIds": [
+      "char-yu"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_leader-1500",
+    "characterIds": [
+      "char-ktn",
+      "char-skr",
+      "char-rui",
+      "char-rio",
+      "char-kor"
+    ],
+    "advantagePermil": 1500,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_pajm-1300",
+    "characterIds": [
+      "char-chs",
+      "char-suz",
+      "char-szk",
+      "char-smr",
+      "char-kkr"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  },
+  {
+    "id": "quest_character_advantage_thrxmna-1300",
+    "characterIds": [
+      "char-kor",
+      "char-kan",
+      "char-mhk",
+      "char-mna"
+    ],
+    "advantagePermil": 1300,
+    "characterGroupId": ""
+  }
+]

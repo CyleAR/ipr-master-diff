@@ -1,0 +1,142 @@
+[
+  {
+    "id": "box_gacha_group-21-0930-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon_medal-21-0930"
+  },
+  {
+    "id": "box_gacha_group-21-1130-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon_medal-21-1130"
+  },
+  {
+    "id": "box_gacha_group-22-0131-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon_medal-22-0131"
+  },
+  {
+    "id": "box_gacha_group-22-0413-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-22-0413"
+  },
+  {
+    "id": "box_gacha_group-22-0526-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon_medal-22-0526"
+  },
+  {
+    "id": "box_gacha_group-22-0712-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-22-0712"
+  },
+  {
+    "id": "box_gacha_group-22-0928-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-22-0928"
+  },
+  {
+    "id": "box_gacha_group-22-1028-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-22-1028"
+  },
+  {
+    "id": "box_gacha_group-23-0110-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-23-0110"
+  },
+  {
+    "id": "box_gacha_group-23-0128-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-23-0128"
+  },
+  {
+    "id": "box_gacha_group-23-0310-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-23-0310"
+  },
+  {
+    "id": "box_gacha_group-23-0328-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-23-0328"
+  },
+  {
+    "id": "box_gacha_group-23-0528-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-23-0528"
+  },
+  {
+    "id": "box_gacha_group-23-0728-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-23-0728"
+  },
+  {
+    "id": "box_gacha_group-23-0927-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-23-0927"
+  },
+  {
+    "id": "box_gacha_group-23-1027-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-23-1027"
+  },
+  {
+    "id": "box_gacha_group-23-1226-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon-raid_medal-23-1226"
+  },
+  {
+    "id": "box_gacha_group-24-0113-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-24-0113"
+  },
+  {
+    "id": "box_gacha_group-24-0327-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon-raid_medal-24-0327"
+  },
+  {
+    "id": "box_gacha_group-24-0528-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon-raid_medal-24-0528"
+  },
+  {
+    "id": "box_gacha_group-24-0827-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-24-0827"
+  },
+  {
+    "id": "box_gacha_group-24-0909-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-24-0909"
+  },
+  {
+    "id": "box_gacha_group-25-0128-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-25-0128"
+  },
+  {
+    "id": "box_gacha_group-25-0207-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-25-0207"
+  },
+  {
+    "id": "box_gacha_group-25-0326-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-25-0326"
+  },
+  {
+    "id": "box_gacha_group-25-0927-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-marathon-raid_medal-25-0927"
+  },
+  {
+    "id": "box_gacha_group-25-1107-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon_medal-25-1107"
+  },
+  {
+    "id": "box_gacha_group-25-1226-001",
+    "requiredResourceType": 1,
+    "requiredResourceId": "item-mini-marathon-raid_medal-25-1226"
+  }
+]

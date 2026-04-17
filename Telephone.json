@@ -1,0 +1,4050 @@
+[
+  {
+    "id": "tel-card-ai-05-arab-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「湯けむりオアシス」",
+    "assetId": "tel-card-ai-05-arab-00",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-arab-00"
+  },
+  {
+    "id": "tel-card-ai-05-chna-01",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「桃園グランドマッチ」",
+    "assetId": "tel-card-ai-05-chna-01",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-chna-01"
+  },
+  {
+    "id": "tel-card-ai-05-fest-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「火花散らす熱いキモチ」",
+    "assetId": "tel-card-ai-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-fest-00"
+  },
+  {
+    "id": "tel-card-ai-05-fest-03",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「限界破りし努力の拳」",
+    "assetId": "tel-card-ai-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-fest-03"
+  },
+  {
+    "id": "tel-card-ai-05-idol-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「掴みとる夢」",
+    "assetId": "tel-card-ai-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-idol-00"
+  },
+  {
+    "id": "tel-card-ai-05-kait-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「私にとって大切な曲」",
+    "assetId": "tel-card-ai-05-kait-00",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-kait-00"
+  },
+  {
+    "id": "tel-card-ai-05-miku-01",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「鳴り止まないアンコール」",
+    "assetId": "tel-card-ai-05-miku-01",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-miku-01"
+  },
+  {
+    "id": "tel-card-ai-05-mizg-01",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「ネオン煌めくナイトプール」",
+    "assetId": "tel-card-ai-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-mizg-01"
+  },
+  {
+    "id": "tel-card-ai-05-mizg-02",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「スプラッシュ・シーサイド」",
+    "assetId": "tel-card-ai-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-mizg-02"
+  },
+  {
+    "id": "tel-card-ai-05-rock-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「クールにキメるぼっち収録」",
+    "assetId": "tel-card-ai-05-rock-00",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-rock-00"
+  },
+  {
+    "id": "tel-card-ai-05-tact-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「セクシーシューティング」",
+    "assetId": "tel-card-ai-05-tact-00",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-tact-00"
+  },
+  {
+    "id": "tel-card-ai-05-vlnt-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「ちょこ～っとバレンタイン」",
+    "assetId": "tel-card-ai-05-vlnt-00",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-card-ai-05-yukt-00",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "「夜空に開く夏の花」",
+    "assetId": "tel-card-ai-05-yukt-00",
+    "unlockConditionId": "cd-ms-read-message-card-ai-05-yukt-00"
+  },
+  {
+    "id": "tel-card-aoi-05-arab-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「水踊る祝祭」",
+    "assetId": "tel-card-aoi-05-arab-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-arab-00"
+  },
+  {
+    "id": "tel-card-aoi-05-circ-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「ダーティーアクセル」",
+    "assetId": "tel-card-aoi-05-circ-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-circ-00"
+  },
+  {
+    "id": "tel-card-aoi-05-fest-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「名残の空に約束を」",
+    "assetId": "tel-card-aoi-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-fest-00"
+  },
+  {
+    "id": "tel-card-aoi-05-fest-03",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「咲き誇る気高き刃」",
+    "assetId": "tel-card-aoi-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-fest-03"
+  },
+  {
+    "id": "tel-card-aoi-05-idol-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「濡れた髪は何を語る」",
+    "assetId": "tel-card-aoi-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-idol-00"
+  },
+  {
+    "id": "tel-card-aoi-05-kait-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「growing up！」",
+    "assetId": "tel-card-aoi-05-kait-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-kait-00"
+  },
+  {
+    "id": "tel-card-aoi-05-miku-01",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「分かち合う最高の時間」",
+    "assetId": "tel-card-aoi-05-miku-01",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-miku-01"
+  },
+  {
+    "id": "tel-card-aoi-05-mizg-01",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「君と結ぶ夏の約束」",
+    "assetId": "tel-card-aoi-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-mizg-01"
+  },
+  {
+    "id": "tel-card-aoi-05-past-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「secret my Lily」",
+    "assetId": "tel-card-aoi-05-past-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-past-00"
+  },
+  {
+    "id": "tel-card-aoi-05-vlnt-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「おかしな気分は君のせい」",
+    "assetId": "tel-card-aoi-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-aoi-05-wdnc-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「Break Out, Midnight!」",
+    "assetId": "tel-card-aoi-05-wdnc-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-wdnc-00"
+  },
+  {
+    "id": "tel-card-aoi-05-wedd-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「リングに誓う永遠」",
+    "assetId": "tel-card-aoi-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-wedd-00"
+  },
+  {
+    "id": "tel-card-aoi-05-yukt-00",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "「君と感じる蝉時雨」",
+    "assetId": "tel-card-aoi-05-yukt-00",
+    "unlockConditionId": "cd-ms-read-message-card-aoi-05-yukt-00"
+  },
+  {
+    "id": "tel-card-chs-05-alic-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「Alice in Monochrome」",
+    "assetId": "tel-card-chs-05-alic-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-alic-00"
+  },
+  {
+    "id": "tel-card-chs-05-chia-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「燃える頬と熱い心」",
+    "assetId": "tel-card-chs-05-chia-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-chia-00"
+  },
+  {
+    "id": "tel-card-chs-05-chsk-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「絆溢れるクリエーション」",
+    "assetId": "tel-card-chs-05-chsk-00",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-card-chs-05-fest-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「故郷の波と溶けあって」",
+    "assetId": "tel-card-chs-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-fest-00"
+  },
+  {
+    "id": "tel-card-chs-05-fest-03",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「紡ぎ合う憧れの時間」",
+    "assetId": "tel-card-chs-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-fest-03"
+  },
+  {
+    "id": "tel-card-chs-05-flow-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「檻に咲く名花」",
+    "assetId": "tel-card-chs-05-flow-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-flow-00"
+  },
+  {
+    "id": "tel-card-chs-05-hruh-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「ミステリックアイ」",
+    "assetId": "tel-card-chs-05-hruh-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-hruh-00"
+  },
+  {
+    "id": "tel-card-chs-05-idol-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「照度を増す自信」",
+    "assetId": "tel-card-chs-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-idol-00"
+  },
+  {
+    "id": "tel-card-chs-05-maid-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「殻破る挑戦者」",
+    "assetId": "tel-card-chs-05-maid-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-maid-00"
+  },
+  {
+    "id": "tel-card-chs-05-pajm-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「お姫様抱っこで夢の中」",
+    "assetId": "tel-card-chs-05-pajm-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-pajm-00"
+  },
+  {
+    "id": "tel-card-chs-05-rock-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「ひと握りの勇気」",
+    "assetId": "tel-card-chs-05-rock-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-rock-00"
+  },
+  {
+    "id": "tel-card-chs-05-seik-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「一夜限りの聖なるステージ」",
+    "assetId": "tel-card-chs-05-seik-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-seik-00"
+  },
+  {
+    "id": "tel-card-chs-05-yukt-00",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "「祭りに光る一番星」",
+    "assetId": "tel-card-chs-05-yukt-00",
+    "unlockConditionId": "cd-ms-read-message-card-chs-05-yukt-00"
+  },
+  {
+    "id": "tel-card-hrk-05-adlt-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「beyond the goal」",
+    "assetId": "tel-card-hrk-05-adlt-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-adlt-00"
+  },
+  {
+    "id": "tel-card-hrk-05-chna-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「解き放たれる十七歳」",
+    "assetId": "tel-card-hrk-05-chna-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-chna-00"
+  },
+  {
+    "id": "tel-card-hrk-05-fest-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「共に繋いだ約束の音」",
+    "assetId": "tel-card-hrk-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-fest-00"
+  },
+  {
+    "id": "tel-card-hrk-05-idol-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「とても頼れるお姉さん」",
+    "assetId": "tel-card-hrk-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-idol-00"
+  },
+  {
+    "id": "tel-card-hrk-05-idol-03",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「私、決めたよ」",
+    "assetId": "tel-card-hrk-05-idol-03",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-idol-03"
+  },
+  {
+    "id": "tel-card-hrk-05-link-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「絆が示す涙の航路」",
+    "assetId": "tel-card-hrk-05-link-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-link-00"
+  },
+  {
+    "id": "tel-card-hrk-05-mizg-01",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「恵みのサニーシャワー」",
+    "assetId": "tel-card-hrk-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-mizg-01"
+  },
+  {
+    "id": "tel-card-hrk-05-mnab-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「光の海で祝福を」",
+    "assetId": "tel-card-hrk-05-mnab-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-mnab-00"
+  },
+  {
+    "id": "tel-card-hrk-05-onep-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「ゆるり妄想温泉の旅」",
+    "assetId": "tel-card-hrk-05-onep-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-onep-00"
+  },
+  {
+    "id": "tel-card-hrk-05-pair-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「膨らむ頬と未来への期待」",
+    "assetId": "tel-card-hrk-05-pair-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-pair-00"
+  },
+  {
+    "id": "tel-card-hrk-05-pajm-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「私の理想のデートプラン」",
+    "assetId": "tel-card-hrk-05-pajm-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-pajm-00"
+  },
+  {
+    "id": "tel-card-hrk-05-sail-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「陽光見守るとなりの青春」",
+    "assetId": "tel-card-hrk-05-sail-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-sail-00"
+  },
+  {
+    "id": "tel-card-hrk-05-vlnt-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「ちょこっと愛の贈り物」",
+    "assetId": "tel-card-hrk-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-hrk-05-xmas-00",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "「二人きり、冬夜の打ち上げ」",
+    "assetId": "tel-card-hrk-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-hrk-05-xmas-00"
+  },
+  {
+    "id": "tel-card-kan-05-buny-00",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「バズらせバニー」",
+    "assetId": "tel-card-kan-05-buny-00",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-buny-00"
+  },
+  {
+    "id": "tel-card-kan-05-chia-00",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「sniping smash!!!!」",
+    "assetId": "tel-card-kan-05-chia-00",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-chia-00"
+  },
+  {
+    "id": "tel-card-kan-05-chna-00",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「主役はkanaかな？」",
+    "assetId": "tel-card-kan-05-chna-00",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-chna-00"
+  },
+  {
+    "id": "tel-card-kan-05-fest-02",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「a new dawn」",
+    "assetId": "tel-card-kan-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-fest-02"
+  },
+  {
+    "id": "tel-card-kan-05-idol-00",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「a piece of cake」",
+    "assetId": "tel-card-kan-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-idol-00"
+  },
+  {
+    "id": "tel-card-kan-05-idol-03",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「本音イミテーション」",
+    "assetId": "tel-card-kan-05-idol-03",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-idol-03"
+  },
+  {
+    "id": "tel-card-kan-05-link-00",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「絆育む天使と悪魔」",
+    "assetId": "tel-card-kan-05-link-00",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-link-00"
+  },
+  {
+    "id": "tel-card-kan-05-mizg-02",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「泡映る七色の君」",
+    "assetId": "tel-card-kan-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-mizg-02"
+  },
+  {
+    "id": "tel-card-kan-05-pair-00",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「欲望叶える天使の戯れ」",
+    "assetId": "tel-card-kan-05-pair-00",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-pair-00"
+  },
+  {
+    "id": "tel-card-kan-05-poli-00",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "「超強いんだから」",
+    "assetId": "tel-card-kan-05-poli-00",
+    "unlockConditionId": "cd-ms-read-message-card-kan-05-poli-00"
+  },
+  {
+    "id": "tel-card-kkr-05-fest-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「戯言に隠すホントの願い」",
+    "assetId": "tel-card-kkr-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-fest-00"
+  },
+  {
+    "id": "tel-card-kkr-05-fest-03",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「心撃ち抜く無敵の笑顔」",
+    "assetId": "tel-card-kkr-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-fest-03"
+  },
+  {
+    "id": "tel-card-kkr-05-flow-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「lonely rainy day」",
+    "assetId": "tel-card-kkr-05-flow-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-flow-00"
+  },
+  {
+    "id": "tel-card-kkr-05-idol-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「新生リズノワの誇り」",
+    "assetId": "tel-card-kkr-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-idol-00"
+  },
+  {
+    "id": "tel-card-kkr-05-kion-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「打ち上げティータイム」",
+    "assetId": "tel-card-kkr-05-kion-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-kion-00"
+  },
+  {
+    "id": "tel-card-kkr-05-link-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「絆咲く真夏の黒百合」",
+    "assetId": "tel-card-kkr-05-link-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-link-00"
+  },
+  {
+    "id": "tel-card-kkr-05-miku-01",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「心震える熱き想い」",
+    "assetId": "tel-card-kkr-05-miku-01",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-miku-01"
+  },
+  {
+    "id": "tel-card-kkr-05-mizg-01",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「忘れられない夏の味」",
+    "assetId": "tel-card-kkr-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-mizg-01"
+  },
+  {
+    "id": "tel-card-kkr-05-mizg-02",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「出航！ユニコーンちゃん」",
+    "assetId": "tel-card-kkr-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-mizg-02"
+  },
+  {
+    "id": "tel-card-kkr-05-newy-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「うれしはずかし初詣」",
+    "assetId": "tel-card-kkr-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-newy-00"
+  },
+  {
+    "id": "tel-card-kkr-05-pair-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「傷心欺く悪魔の虚勢」",
+    "assetId": "tel-card-kkr-05-pair-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-pair-00"
+  },
+  {
+    "id": "tel-card-kkr-05-seik-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「私は私」",
+    "assetId": "tel-card-kkr-05-seik-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-seik-00"
+  },
+  {
+    "id": "tel-card-kkr-05-trbl-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「悪戯好きなサンタさん」",
+    "assetId": "tel-card-kkr-05-trbl-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-trbl-00"
+  },
+  {
+    "id": "tel-card-kkr-05-vlnt-00",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "「ビタースイートメモリーズ」",
+    "assetId": "tel-card-kkr-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-kkr-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-kor-05-buny-00",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「逆転のジーニアスラビット」",
+    "assetId": "tel-card-kor-05-buny-00",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-buny-00"
+  },
+  {
+    "id": "tel-card-kor-05-fest-02",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「the brand is me」",
+    "assetId": "tel-card-kor-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-fest-02"
+  },
+  {
+    "id": "tel-card-kor-05-idol-00",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「snake in the grass」",
+    "assetId": "tel-card-kor-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-idol-00"
+  },
+  {
+    "id": "tel-card-kor-05-idol-03",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「俊傑は我が道を貫く」",
+    "assetId": "tel-card-kor-05-idol-03",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-idol-03"
+  },
+  {
+    "id": "tel-card-kor-05-mizg-01",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「真夏のレーベン」",
+    "assetId": "tel-card-kor-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-mizg-01"
+  },
+  {
+    "id": "tel-card-kor-05-mizg-02",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「むすっとナイトビーナス」",
+    "assetId": "tel-card-kor-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-mizg-02"
+  },
+  {
+    "id": "tel-card-kor-05-newy-00",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「夜桜マスケンヴァル」",
+    "assetId": "tel-card-kor-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-newy-00"
+  },
+  {
+    "id": "tel-card-kor-05-nurs-00",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「怪演ダークエンジェル」",
+    "assetId": "tel-card-kor-05-nurs-00",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-nurs-00"
+  },
+  {
+    "id": "tel-card-kor-05-poli-00",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「壁越しに香るゆず湯」",
+    "assetId": "tel-card-kor-05-poli-00",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-poli-00"
+  },
+  {
+    "id": "tel-card-kor-05-xmas-00",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "「スイートラグジュアリー」",
+    "assetId": "tel-card-kor-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-kor-05-xmas-00"
+  },
+  {
+    "id": "tel-card-ktn-05-circ-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「カットバックタンデム」",
+    "assetId": "tel-card-ktn-05-circ-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-circ-00"
+  },
+  {
+    "id": "tel-card-ktn-05-fest-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「光華霜夜」",
+    "assetId": "tel-card-ktn-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-fest-00"
+  },
+  {
+    "id": "tel-card-ktn-05-fest-01",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「月光惑う光耀の幻影」",
+    "assetId": "tel-card-ktn-05-fest-01",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-fest-01"
+  },
+  {
+    "id": "tel-card-ktn-05-fest-02",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「私達ノ未来」",
+    "assetId": "tel-card-ktn-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-fest-02"
+  },
+  {
+    "id": "tel-card-ktn-05-idol-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「イノセントステージ」",
+    "assetId": "tel-card-ktn-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-idol-00"
+  },
+  {
+    "id": "tel-card-ktn-05-kiok-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「泡沫の悲しみ、思いは胸に」",
+    "assetId": "tel-card-ktn-05-kiok-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-kiok-00"
+  },
+  {
+    "id": "tel-card-ktn-05-mizg-01",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「はにかみサマームーン」",
+    "assetId": "tel-card-ktn-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-mizg-01"
+  },
+  {
+    "id": "tel-card-ktn-05-mizg-03",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「星すくう指先」",
+    "assetId": "tel-card-ktn-05-mizg-03",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-mizg-03"
+  },
+  {
+    "id": "tel-card-ktn-05-mnab-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「present for my sister」",
+    "assetId": "tel-card-ktn-05-mnab-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-mnab-00"
+  },
+  {
+    "id": "tel-card-ktn-05-msic-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「my best answer」",
+    "assetId": "tel-card-ktn-05-msic-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-msic-00"
+  },
+  {
+    "id": "tel-card-ktn-05-newy-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「新年祝う雪月花」",
+    "assetId": "tel-card-ktn-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-newy-00"
+  },
+  {
+    "id": "tel-card-ktn-05-poli-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「消えぬ正義の焔」",
+    "assetId": "tel-card-ktn-05-poli-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-poli-00"
+  },
+  {
+    "id": "tel-card-ktn-05-wedd-00",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "「Perfect Bride」",
+    "assetId": "tel-card-ktn-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-ktn-05-wedd-00"
+  },
+  {
+    "id": "tel-card-mei-05-casl-02",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「もしもひと夏の恋をしたら」",
+    "assetId": "tel-card-mei-05-casl-02",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-casl-02"
+  },
+  {
+    "id": "tel-card-mei-05-fest-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「一人のアイドルとの出会い」",
+    "assetId": "tel-card-mei-05-fest-00",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-card-mei-05-fest-02",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「ヒカリ輝く新たな誓い」",
+    "assetId": "tel-card-mei-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-fest-02"
+  },
+  {
+    "id": "tel-card-mei-05-hruh-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「早坂芽衣の分裂」",
+    "assetId": "tel-card-mei-05-hruh-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-hruh-00"
+  },
+  {
+    "id": "tel-card-mei-05-idol-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「カメラ越しの笑顔」",
+    "assetId": "tel-card-mei-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-idol-00"
+  },
+  {
+    "id": "tel-card-mei-05-miku-05",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「常夏のパワフルムーン」",
+    "assetId": "tel-card-mei-05-miku-05",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-miku-05"
+  },
+  {
+    "id": "tel-card-mei-05-mizg-01",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「二人きりのサンセットビーチ」",
+    "assetId": "tel-card-mei-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-mizg-01"
+  },
+  {
+    "id": "tel-card-mei-05-mizg-02",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「隠しきれない顔の火照り」",
+    "assetId": "tel-card-mei-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-mizg-02"
+  },
+  {
+    "id": "tel-card-mei-05-pair-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「ニャンたすてぃっくガール」",
+    "assetId": "tel-card-mei-05-pair-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-pair-00"
+  },
+  {
+    "id": "tel-card-mei-05-rock-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「いつかまた一緒に」",
+    "assetId": "tel-card-mei-05-rock-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-rock-00"
+  },
+  {
+    "id": "tel-card-mei-05-vlnt-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「本命meet up」",
+    "assetId": "tel-card-mei-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-mei-05-wdnc-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「Underground Queen」",
+    "assetId": "tel-card-mei-05-wdnc-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-wdnc-00"
+  },
+  {
+    "id": "tel-card-mei-05-wedd-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「パールホワイトの想い出」",
+    "assetId": "tel-card-mei-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-wedd-00"
+  },
+  {
+    "id": "tel-card-mei-05-xmas-00",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "「幸せ招く芽衣サンタ」",
+    "assetId": "tel-card-mei-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-mei-05-xmas-00"
+  },
+  {
+    "id": "tel-card-mhk-05-circ-00",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「ホイールオブマッハ」",
+    "assetId": "tel-card-mhk-05-circ-00",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-circ-00"
+  },
+  {
+    "id": "tel-card-mhk-05-fest-02",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「road with friends」",
+    "assetId": "tel-card-mhk-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-fest-02"
+  },
+  {
+    "id": "tel-card-mhk-05-idol-00",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「make a comeback」",
+    "assetId": "tel-card-mhk-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-idol-00"
+  },
+  {
+    "id": "tel-card-mhk-05-idol-03",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「囚われの執心」",
+    "assetId": "tel-card-mhk-05-idol-03",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-idol-03"
+  },
+  {
+    "id": "tel-card-mhk-05-mizg-01",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「波間に揺れるノスタルジー」",
+    "assetId": "tel-card-mhk-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-mizg-01"
+  },
+  {
+    "id": "tel-card-mhk-05-newy-00",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「盃映す雪景色」",
+    "assetId": "tel-card-mhk-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-newy-00"
+  },
+  {
+    "id": "tel-card-mhk-05-pajm-00",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「思い出はいつも黒髪に」",
+    "assetId": "tel-card-mhk-05-pajm-00",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-pajm-00"
+  },
+  {
+    "id": "tel-card-mhk-05-poli-00",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「湯けむりショートトリップ」",
+    "assetId": "tel-card-mhk-05-poli-00",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-poli-00"
+  },
+  {
+    "id": "tel-card-mhk-05-wedd-00",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「蒼の追懐」",
+    "assetId": "tel-card-mhk-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-wedd-00"
+  },
+  {
+    "id": "tel-card-mhk-05-xmas-00",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "「一瞬の雪解け」",
+    "assetId": "tel-card-mhk-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-mhk-05-xmas-00"
+  },
+  {
+    "id": "tel-card-mna-05-idol-00",
+    "messageGroupId": "message_group_mna",
+    "characterId": "char-mna",
+    "name": "「You're my everything」",
+    "assetId": "tel-card-mna-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-mna-05-idol-00"
+  },
+  {
+    "id": "tel-card-ngs-05-akma-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「いたずら好きな小悪魔」",
+    "assetId": "tel-card-ngs-05-akma-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-akma-00"
+  },
+  {
+    "id": "tel-card-ngs-05-casl-02",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「もしも幼なじみと恋をしたら」",
+    "assetId": "tel-card-ngs-05-casl-02",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-casl-02"
+  },
+  {
+    "id": "tel-card-ngs-05-fest-02",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「友を照らすヒカリ」",
+    "assetId": "tel-card-ngs-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-fest-02"
+  },
+  {
+    "id": "tel-card-ngs-05-flow-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「この瞬間の主役」",
+    "assetId": "tel-card-ngs-05-flow-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-flow-00"
+  },
+  {
+    "id": "tel-card-ngs-05-frut-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「桃色フェスタ」",
+    "assetId": "tel-card-ngs-05-frut-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-frut-00"
+  },
+  {
+    "id": "tel-card-ngs-05-idol-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「背中をあずけて」",
+    "assetId": "tel-card-ngs-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-idol-00"
+  },
+  {
+    "id": "tel-card-ngs-05-maid-01",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「二人で萌え萌えきゅん！」",
+    "assetId": "tel-card-ngs-05-maid-01",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-maid-01"
+  },
+  {
+    "id": "tel-card-ngs-05-mizg-01",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「光踊る砂浜のメッセージ」",
+    "assetId": "tel-card-ngs-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-mizg-01"
+  },
+  {
+    "id": "tel-card-ngs-05-mizg-02",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「夏空シェイプアップ」",
+    "assetId": "tel-card-ngs-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-mizg-02"
+  },
+  {
+    "id": "tel-card-ngs-05-vlnt-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「息吹導く甘い瞬間」",
+    "assetId": "tel-card-ngs-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-ngs-05-wedd-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「空響く祝福の鐘」",
+    "assetId": "tel-card-ngs-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-wedd-00"
+  },
+  {
+    "id": "tel-card-ngs-05-xmas-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「夢抱くクリスマスデート」",
+    "assetId": "tel-card-ngs-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-xmas-00"
+  },
+  {
+    "id": "tel-card-ngs-05-yukt-00",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "「日差しに火照る頬」",
+    "assetId": "tel-card-ngs-05-yukt-00",
+    "unlockConditionId": "cd-ms-read-message-card-ngs-05-yukt-00"
+  },
+  {
+    "id": "tel-card-rei-05-casl-02",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「もしも君の手に触れたら」",
+    "assetId": "tel-card-rei-05-casl-02",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-casl-02"
+  },
+  {
+    "id": "tel-card-rei-05-chia-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「ダンシングキューピッド」",
+    "assetId": "tel-card-rei-05-chia-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-chia-00"
+  },
+  {
+    "id": "tel-card-rei-05-fest-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「踊る彼女に息をのむ」",
+    "assetId": "tel-card-rei-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-fest-00"
+  },
+  {
+    "id": "tel-card-rei-05-fest-01",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「故郷の海にほころんで」",
+    "assetId": "tel-card-rei-05-fest-01",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-fest-01"
+  },
+  {
+    "id": "tel-card-rei-05-hruh-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「三毛猫ラプソディ」",
+    "assetId": "tel-card-rei-05-hruh-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-hruh-00"
+  },
+  {
+    "id": "tel-card-rei-05-idol-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「高台をかける薫風」",
+    "assetId": "tel-card-rei-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-idol-00"
+  },
+  {
+    "id": "tel-card-rei-05-mizg-02",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「大胆なのは夏のせい」",
+    "assetId": "tel-card-rei-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-mizg-02"
+  },
+  {
+    "id": "tel-card-rei-05-mizg-03",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「時止まる常夏」",
+    "assetId": "tel-card-rei-05-mizg-03",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-mizg-03"
+  },
+  {
+    "id": "tel-card-rei-05-newy-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「絶対秘密のバックステージ」",
+    "assetId": "tel-card-rei-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-newy-00"
+  },
+  {
+    "id": "tel-card-rei-05-onep-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「花あかり誘う笑顔」",
+    "assetId": "tel-card-rei-05-onep-00",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-card-rei-05-pair-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「ステップアップ・バンビーナ」",
+    "assetId": "tel-card-rei-05-pair-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-pair-00"
+  },
+  {
+    "id": "tel-card-rei-05-rock-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「失敗なんて恐れない」",
+    "assetId": "tel-card-rei-05-rock-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-rock-00"
+  },
+  {
+    "id": "tel-card-rei-05-sail-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「陽光照らす君の髪色」",
+    "assetId": "tel-card-rei-05-sail-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-sail-00"
+  },
+  {
+    "id": "tel-card-rei-05-trbl-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「リボンなんてハレンチな！」",
+    "assetId": "tel-card-rei-05-trbl-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-trbl-00"
+  },
+  {
+    "id": "tel-card-rei-05-wdnc-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「Calling My NAME!」",
+    "assetId": "tel-card-rei-05-wdnc-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-wdnc-00"
+  },
+  {
+    "id": "tel-card-rei-05-wedd-00",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "「花香る二人の未来」",
+    "assetId": "tel-card-rei-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-rei-05-wedd-00"
+  },
+  {
+    "id": "tel-card-rio-05-casl-02",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「もしも職場で恋をしたら」",
+    "assetId": "tel-card-rio-05-casl-02",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-casl-02"
+  },
+  {
+    "id": "tel-card-rio-05-fest-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「奇跡より必然」",
+    "assetId": "tel-card-rio-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-fest-00"
+  },
+  {
+    "id": "tel-card-rio-05-fest-01",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「過去超えし真白の花」",
+    "assetId": "tel-card-rio-05-fest-01",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-fest-01"
+  },
+  {
+    "id": "tel-card-rio-05-fest-03",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「掲げる情熱の御旗」",
+    "assetId": "tel-card-rio-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-fest-03"
+  },
+  {
+    "id": "tel-card-rio-05-halw-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「その魅力、モンスター級」",
+    "assetId": "tel-card-rio-05-halw-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-halw-00"
+  },
+  {
+    "id": "tel-card-rio-05-idol-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「空気を震わせて」",
+    "assetId": "tel-card-rio-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-idol-00"
+  },
+  {
+    "id": "tel-card-rio-05-kait-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「憧憬のアクター」",
+    "assetId": "tel-card-rio-05-kait-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-kait-00"
+  },
+  {
+    "id": "tel-card-rio-05-kiok-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「心に刻む星月夜」",
+    "assetId": "tel-card-rio-05-kiok-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-kiok-00"
+  },
+  {
+    "id": "tel-card-rio-05-mizg-02",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「恥じらいのプールサイド」",
+    "assetId": "tel-card-rio-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-mizg-02"
+  },
+  {
+    "id": "tel-card-rio-05-newy-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「貴方と新春ホームカミング」",
+    "assetId": "tel-card-rio-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-newy-00"
+  },
+  {
+    "id": "tel-card-rio-05-pajm-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「トキメキ気分を指先に」",
+    "assetId": "tel-card-rio-05-pajm-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-pajm-00"
+  },
+  {
+    "id": "tel-card-rio-05-past-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「open two hearts」",
+    "assetId": "tel-card-rio-05-past-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-past-00"
+  },
+  {
+    "id": "tel-card-rio-05-trbl-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「聖夜の女王とプリンセス」",
+    "assetId": "tel-card-rio-05-trbl-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-trbl-00"
+  },
+  {
+    "id": "tel-card-rio-05-wedd-00",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "「ベールに隠した本音」",
+    "assetId": "tel-card-rio-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-rio-05-wedd-00"
+  },
+  {
+    "id": "tel-card-rui-05-date-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「緑風誘うデートスポット」",
+    "assetId": "tel-card-rui-05-date-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-date-00"
+  },
+  {
+    "id": "tel-card-rui-05-fest-01",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「空駆ける絆の翼」",
+    "assetId": "tel-card-rui-05-fest-01",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-fest-01"
+  },
+  {
+    "id": "tel-card-rui-05-fest-03",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「天越える感謝の想い」",
+    "assetId": "tel-card-rui-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-fest-03"
+  },
+  {
+    "id": "tel-card-rui-05-idol-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「ありのままの姿で」",
+    "assetId": "tel-card-rui-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-idol-00"
+  },
+  {
+    "id": "tel-card-rui-05-idol-04",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「湯けむり上る決意の朝」",
+    "assetId": "tel-card-rui-05-idol-04",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-idol-04"
+  },
+  {
+    "id": "tel-card-rui-05-miku-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「歌に乗せて届ける想い」",
+    "assetId": "tel-card-rui-05-miku-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-miku-00"
+  },
+  {
+    "id": "tel-card-rui-05-mizg-01",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「真夏の恥じらいショット」",
+    "assetId": "tel-card-rui-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-mizg-01"
+  },
+  {
+    "id": "tel-card-rui-05-newy-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「陽射しに踊る春の狐」",
+    "assetId": "tel-card-rui-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-newy-00"
+  },
+  {
+    "id": "tel-card-rui-05-sucu-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「心奪うMidnight」",
+    "assetId": "tel-card-rui-05-sucu-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-sucu-00"
+  },
+  {
+    "id": "tel-card-rui-05-trbl-01",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「あなたと街を守るため」",
+    "assetId": "tel-card-rui-05-trbl-01",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-trbl-01"
+  },
+  {
+    "id": "tel-card-rui-05-vlnt-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「薔薇色の夕暮れに染まって」",
+    "assetId": "tel-card-rui-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-rui-05-xmas-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「白息はずむホーリーナイト」",
+    "assetId": "tel-card-rui-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-xmas-00"
+  },
+  {
+    "id": "tel-card-rui-05-yukt-00",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "「熱隠す涼やかな音色」",
+    "assetId": "tel-card-rui-05-yukt-00",
+    "unlockConditionId": "cd-ms-read-message-card-rui-05-yukt-00"
+  },
+  {
+    "id": "tel-card-ski-05-chsk-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「絆深まる姉妹のステージ」",
+    "assetId": "tel-card-ski-05-chsk-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-chsk-00"
+  },
+  {
+    "id": "tel-card-ski-05-fest-02",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「道照らす叡智のヒカリ」",
+    "assetId": "tel-card-ski-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-fest-02"
+  },
+  {
+    "id": "tel-card-ski-05-idol-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「手を取り合って」",
+    "assetId": "tel-card-ski-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-idol-00"
+  },
+  {
+    "id": "tel-card-ski-05-kifj-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「涙のカーテンコール」",
+    "assetId": "tel-card-ski-05-kifj-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-kifj-00"
+  },
+  {
+    "id": "tel-card-ski-05-link-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「春風運ぶ絆のハーモニー」",
+    "assetId": "tel-card-ski-05-link-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-link-00"
+  },
+  {
+    "id": "tel-card-ski-05-miku-05",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「笑顔咲くデイタイム」",
+    "assetId": "tel-card-ski-05-miku-05",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-miku-05"
+  },
+  {
+    "id": "tel-card-ski-05-mizg-02",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「サンライト照らす眼差し」",
+    "assetId": "tel-card-ski-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-mizg-02"
+  },
+  {
+    "id": "tel-card-ski-05-newy-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「飛躍を願う新春」",
+    "assetId": "tel-card-ski-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-newy-00"
+  },
+  {
+    "id": "tel-card-ski-05-onep-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「から紅に染まる頬」",
+    "assetId": "tel-card-ski-05-onep-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-onep-00"
+  },
+  {
+    "id": "tel-card-ski-05-poli-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「厳然たるプライド」",
+    "assetId": "tel-card-ski-05-poli-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-poli-00"
+  },
+  {
+    "id": "tel-card-ski-05-ster-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「静寂の祈り手」",
+    "assetId": "tel-card-ski-05-ster-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-ster-00"
+  },
+  {
+    "id": "tel-card-ski-05-waso-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「胸に秘めていた情熱」",
+    "assetId": "tel-card-ski-05-waso-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-waso-00"
+  },
+  {
+    "id": "tel-card-ski-05-xmas-00",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "「記憶から拾うスノードーム」",
+    "assetId": "tel-card-ski-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-ski-05-xmas-00"
+  },
+  {
+    "id": "tel-card-skr-05-adlt-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「友が見守る成長の道」",
+    "assetId": "tel-card-skr-05-adlt-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-adlt-00"
+  },
+  {
+    "id": "tel-card-skr-05-anml-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「もぐもぐスイーツベア」",
+    "assetId": "tel-card-skr-05-anml-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-anml-00"
+  },
+  {
+    "id": "tel-card-skr-05-chia-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「スマイル・コネクト！」",
+    "assetId": "tel-card-skr-05-chia-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-chia-00"
+  },
+  {
+    "id": "tel-card-skr-05-chna-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「パクパク満腹笑顔」",
+    "assetId": "tel-card-skr-05-chna-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-chna-00"
+  },
+  {
+    "id": "tel-card-skr-05-fest-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「あなたの光になれるように」",
+    "assetId": "tel-card-skr-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-fest-00"
+  },
+  {
+    "id": "tel-card-skr-05-fest-01",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「太陽は光耀と共に」",
+    "assetId": "tel-card-skr-05-fest-01",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-fest-01"
+  },
+  {
+    "id": "tel-card-skr-05-fest-03",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「鼓動高鳴るSunshine」",
+    "assetId": "tel-card-skr-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-fest-03"
+  },
+  {
+    "id": "tel-card-skr-05-idol-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「夢の共演」",
+    "assetId": "tel-card-skr-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-idol-00"
+  },
+  {
+    "id": "tel-card-skr-05-idol-03",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「この指とーまれ！」",
+    "assetId": "tel-card-skr-05-idol-03",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-idol-03"
+  },
+  {
+    "id": "tel-card-skr-05-newy-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「笑う門には福来るだよ！」",
+    "assetId": "tel-card-skr-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-newy-00"
+  },
+  {
+    "id": "tel-card-skr-05-sail-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「Happyサニーパレード」",
+    "assetId": "tel-card-skr-05-sail-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-sail-00"
+  },
+  {
+    "id": "tel-card-skr-05-vlnt-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「甘い鼓動に揺れる花」",
+    "assetId": "tel-card-skr-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-skr-05-wedd-00",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "「marriage flower」",
+    "assetId": "tel-card-skr-05-wedd-00",
+    "unlockConditionId": "cd-ms-read-message-card-skr-05-wedd-00"
+  },
+  {
+    "id": "tel-card-smr-05-fest-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「歌詠み花」",
+    "assetId": "tel-card-smr-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-fest-00"
+  },
+  {
+    "id": "tel-card-smr-05-fest-03",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「銀河彩るハッピースマイル」",
+    "assetId": "tel-card-smr-05-fest-03",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-fest-03"
+  },
+  {
+    "id": "tel-card-smr-05-frut-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「Little lover」",
+    "assetId": "tel-card-smr-05-frut-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-frut-00"
+  },
+  {
+    "id": "tel-card-smr-05-idol-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「小さなヒロイン」",
+    "assetId": "tel-card-smr-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-idol-00"
+  },
+  {
+    "id": "tel-card-smr-05-idol-04",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「飛び立つための羽休め」",
+    "assetId": "tel-card-smr-05-idol-04",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-idol-04"
+  },
+  {
+    "id": "tel-card-smr-05-jwel-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「挑戦のエメラルド」",
+    "assetId": "tel-card-smr-05-jwel-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-jwel-00"
+  },
+  {
+    "id": "tel-card-smr-05-magi-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「願い羽ばたく魔法のエール」",
+    "assetId": "tel-card-smr-05-magi-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-magi-00"
+  },
+  {
+    "id": "tel-card-smr-05-maid-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「花開く名演技」",
+    "assetId": "tel-card-smr-05-maid-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-maid-00"
+  },
+  {
+    "id": "tel-card-smr-05-mizg-01",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「常夏ウォーターパーク」",
+    "assetId": "tel-card-smr-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-mizg-01"
+  },
+  {
+    "id": "tel-card-smr-05-mizg-02",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「波打ち際のしろくまサマー」",
+    "assetId": "tel-card-smr-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-mizg-02"
+  },
+  {
+    "id": "tel-card-smr-05-newy-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「子狐コンコンど根性」",
+    "assetId": "tel-card-smr-05-newy-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-newy-00"
+  },
+  {
+    "id": "tel-card-smr-05-nurs-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「ベッドサイド・エンジェル」",
+    "assetId": "tel-card-smr-05-nurs-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-nurs-00"
+  },
+  {
+    "id": "tel-card-smr-05-pajm-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「夢の国へ誘う安眠膝枕」",
+    "assetId": "tel-card-smr-05-pajm-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-pajm-00"
+  },
+  {
+    "id": "tel-card-smr-05-seik-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「keys of memory」",
+    "assetId": "tel-card-smr-05-seik-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-seik-00"
+  },
+  {
+    "id": "tel-card-smr-05-xmas-00",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "「六花イルミネーション」",
+    "assetId": "tel-card-smr-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-smr-05-xmas-00"
+  },
+  {
+    "id": "tel-card-suz-05-alic-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「うさぎ導くワンダーランド」",
+    "assetId": "tel-card-suz-05-alic-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-alic-00"
+  },
+  {
+    "id": "tel-card-suz-05-angl-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「天使の怠惰な午後」",
+    "assetId": "tel-card-suz-05-angl-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-angl-00"
+  },
+  {
+    "id": "tel-card-suz-05-anml-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「撮れ高たっぷりショット」",
+    "assetId": "tel-card-suz-05-anml-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-anml-00"
+  },
+  {
+    "id": "tel-card-suz-05-fest-02",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「私達ノ誇り」",
+    "assetId": "tel-card-suz-05-fest-02",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-fest-02"
+  },
+  {
+    "id": "tel-card-suz-05-goch-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「鈴の音鳴らす雪うさぎ」",
+    "assetId": "tel-card-suz-05-goch-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-goch-00"
+  },
+  {
+    "id": "tel-card-suz-05-idol-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「パワフルガール」",
+    "assetId": "tel-card-suz-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-idol-00"
+  },
+  {
+    "id": "tel-card-suz-05-kion-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「にゃんて素晴らしい放課後！」",
+    "assetId": "tel-card-suz-05-kion-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-kion-00"
+  },
+  {
+    "id": "tel-card-suz-05-link-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「絆深まるジョイフルデイズ」",
+    "assetId": "tel-card-suz-05-link-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-link-00"
+  },
+  {
+    "id": "tel-card-suz-05-mizg-01",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「ほろにがサマーメモリーズ」",
+    "assetId": "tel-card-suz-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-mizg-01"
+  },
+  {
+    "id": "tel-card-suz-05-msic-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「星降る夜に誓う夢」",
+    "assetId": "tel-card-suz-05-msic-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-msic-00"
+  },
+  {
+    "id": "tel-card-suz-05-onep-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「背伸びをしても、届かない」",
+    "assetId": "tel-card-suz-05-onep-00",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-card-suz-05-pair-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「ごきげんワンぱくガール」",
+    "assetId": "tel-card-suz-05-pair-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-pair-00"
+  },
+  {
+    "id": "tel-card-suz-05-seik-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「乙女のメソッド」",
+    "assetId": "tel-card-suz-05-seik-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-seik-00"
+  },
+  {
+    "id": "tel-card-suz-05-xmas-00",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "「恵みを運ぶアイドルサンタ」",
+    "assetId": "tel-card-suz-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-suz-05-xmas-00"
+  },
+  {
+    "id": "tel-card-szk-05-alic-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「大樹の上でごろにゃんこ」",
+    "assetId": "tel-card-szk-05-alic-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-alic-00"
+  },
+  {
+    "id": "tel-card-szk-05-angl-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「shiny drop」",
+    "assetId": "tel-card-szk-05-angl-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-angl-00"
+  },
+  {
+    "id": "tel-card-szk-05-chna-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「夢は、きっと叶う」",
+    "assetId": "tel-card-szk-05-chna-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-chna-00"
+  },
+  {
+    "id": "tel-card-szk-05-goch-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「聖夜のもふもふパーティー」",
+    "assetId": "tel-card-szk-05-goch-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-goch-00"
+  },
+  {
+    "id": "tel-card-szk-05-idol-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「光の波」",
+    "assetId": "tel-card-szk-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-idol-00"
+  },
+  {
+    "id": "tel-card-szk-05-link-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「二人の絆がたからもの」",
+    "assetId": "tel-card-szk-05-link-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-link-00"
+  },
+  {
+    "id": "tel-card-szk-05-mizg-03",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「ゆらゆらバケーション」",
+    "assetId": "tel-card-szk-05-mizg-03",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-mizg-03"
+  },
+  {
+    "id": "tel-card-szk-05-pajm-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「万歳オフショ夢空間」",
+    "assetId": "tel-card-szk-05-pajm-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-pajm-00"
+  },
+  {
+    "id": "tel-card-szk-05-rock-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「香るミステリアスクール」",
+    "assetId": "tel-card-szk-05-rock-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-rock-00"
+  },
+  {
+    "id": "tel-card-szk-05-sail-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「夢のアングラークイーン」",
+    "assetId": "tel-card-szk-05-sail-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-sail-00"
+  },
+  {
+    "id": "tel-card-szk-05-yukt-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「大輪彩る夏夜の一瞬」",
+    "assetId": "tel-card-szk-05-yukt-00",
+    "unlockConditionId": "cd-ms-read-message-card-szk-05-yukt-00"
+  },
+  {
+    "id": "tel-card-szk-05-yuru-00",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "「一緒に歌える幸せ」",
+    "assetId": "tel-card-szk-05-yuru-00",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-card-yu-05-casl-02",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「もしも芸能人と恋をしたら」",
+    "assetId": "tel-card-yu-05-casl-02",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-casl-02"
+  },
+  {
+    "id": "tel-card-yu-05-chna-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「水面に映る花影」",
+    "assetId": "tel-card-yu-05-chna-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-chna-00"
+  },
+  {
+    "id": "tel-card-yu-05-fest-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「甘えん坊の鈴村さん」",
+    "assetId": "tel-card-yu-05-fest-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-fest-00"
+  },
+  {
+    "id": "tel-card-yu-05-fest-01",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「君と広げた絆の翼」",
+    "assetId": "tel-card-yu-05-fest-01",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-fest-01"
+  },
+  {
+    "id": "tel-card-yu-05-idol-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「白の衝撃」",
+    "assetId": "tel-card-yu-05-idol-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-idol-00"
+  },
+  {
+    "id": "tel-card-yu-05-idol-04",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「鴨川ロマンス」",
+    "assetId": "tel-card-yu-05-idol-04",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-idol-04"
+  },
+  {
+    "id": "tel-card-yu-05-jwel-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「笑顔輝くアメジスト」",
+    "assetId": "tel-card-yu-05-jwel-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-jwel-00"
+  },
+  {
+    "id": "tel-card-yu-05-link-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「絆広がる二人の明日」",
+    "assetId": "tel-card-yu-05-link-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-link-00"
+  },
+  {
+    "id": "tel-card-yu-05-mizg-01",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「秘密のフォトセッション」",
+    "assetId": "tel-card-yu-05-mizg-01",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-mizg-01"
+  },
+  {
+    "id": "tel-card-yu-05-mizg-02",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「陽に溶けるブレークタイム」",
+    "assetId": "tel-card-yu-05-mizg-02",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-mizg-02"
+  },
+  {
+    "id": "tel-card-yu-05-nurs-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「悪戯エンジェル」",
+    "assetId": "tel-card-yu-05-nurs-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-nurs-00"
+  },
+  {
+    "id": "tel-card-yu-05-ster-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「誓約のぬくもり」",
+    "assetId": "tel-card-yu-05-ster-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-ster-00"
+  },
+  {
+    "id": "tel-card-yu-05-vlnt-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「思わせぶりな戦略家」",
+    "assetId": "tel-card-yu-05-vlnt-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-vlnt-00"
+  },
+  {
+    "id": "tel-card-yu-05-wedd-01",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「心恋、京ツアー」",
+    "assetId": "tel-card-yu-05-wedd-01",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-wedd-01"
+  },
+  {
+    "id": "tel-card-yu-05-xmas-00",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "「うちらのクリスマスイブ」",
+    "assetId": "tel-card-yu-05-xmas-00",
+    "unlockConditionId": "cd-ms-read-message-card-yu-05-xmas-00"
+  },
+  {
+    "id": "tel-hbd-ai-22-0209",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "おそれおおい",
+    "assetId": "tel-hbd-ai-22-0209",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ai-23-0209",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "最高のダンベル",
+    "assetId": "tel-hbd-ai-23-0209",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ai-24-0209",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "今日は特別に好きなだけ",
+    "assetId": "tel-hbd-ai-24-0209",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ai-25-0209",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "びくびくしてました",
+    "assetId": "tel-hbd-ai-25-0209",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ai-26-0209",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "広がる世界",
+    "assetId": "tel-hbd-ai-26-0209",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-aoi-22-0619",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "熱が入るよ",
+    "assetId": "tel-hbd-aoi-22-0619",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-aoi-23-0619",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "もしもの人生",
+    "assetId": "tel-hbd-aoi-23-0619",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-aoi-24-0619",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "口が上手な君へのお礼",
+    "assetId": "tel-hbd-aoi-24-0619",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-aoi-25-0619",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "ケーキの大渋滞",
+    "assetId": "tel-hbd-aoi-25-0619",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-chs-21-1122",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "ホラー体験",
+    "assetId": "tel-hbd-chs-21-1122",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-chs-22-1122",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "初回限定版",
+    "assetId": "tel-hbd-chs-22-1122",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-chs-23-1122",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "ひみつの特訓",
+    "assetId": "tel-hbd-chs-23-1122",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-chs-24-1122",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "ずーっと楽しかった",
+    "assetId": "tel-hbd-chs-24-1122",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-chs-25-1122",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "メッセと人となり",
+    "assetId": "tel-hbd-chs-25-1122",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-hrk-22-0103",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "このタヌキめ！",
+    "assetId": "tel-hbd-hrk-22-0103",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-hrk-23-0103",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "自責の念",
+    "assetId": "tel-hbd-hrk-23-0103",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-hrk-24-0103",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "こっそり抜いちゃった",
+    "assetId": "tel-hbd-hrk-24-0103",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-hrk-25-0103",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "安心したわ",
+    "assetId": "tel-hbd-hrk-25-0103",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-hrk-26-0103",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "ウザ絡みしちゃうんだから",
+    "assetId": "tel-hbd-hrk-26-0103",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kan-23-0410",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "意外と反響あった",
+    "assetId": "tel-hbd-kan-23-0410",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kan-24-0410",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "悪くない止まりなの！",
+    "assetId": "tel-hbd-kan-24-0410",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kan-25-0410",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "半世紀に一回だけなら",
+    "assetId": "tel-hbd-kan-25-0410",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kan-26-0410",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "けんけんぱっ",
+    "assetId": "tel-hbd-kan-26-0410",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kkr-21-1206",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "やりおる",
+    "assetId": "tel-hbd-kkr-21-1206",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kkr-22-1206",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "採点しまーす！",
+    "assetId": "tel-hbd-kkr-22-1206",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kkr-23-1206",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "いっぱいもらっちゃいました",
+    "assetId": "tel-hbd-kkr-23-1206",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kkr-24-1206",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "だまらっしゃーい！",
+    "assetId": "tel-hbd-kkr-24-1206",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kkr-25-1206",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "嗚呼、誕生日",
+    "assetId": "tel-hbd-kkr-25-1206",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kor-23-0611",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "少額過ぎる",
+    "assetId": "tel-hbd-kor-23-0611",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kor-24-0611",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "次回は金の延べ棒で",
+    "assetId": "tel-hbd-kor-24-0611",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-kor-25-0611",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "わらわら湧いてきて",
+    "assetId": "tel-hbd-kor-25-0611",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ktn-21-1225",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "律義ですね",
+    "assetId": "tel-hbd-ktn-21-1225",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ktn-22-1225",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "二つのプレゼント",
+    "assetId": "tel-hbd-ktn-22-1225",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ktn-23-1225",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "大きくなったわね",
+    "assetId": "tel-hbd-ktn-23-1225",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ktn-24-1225",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "不安になるくらい素敵な時間",
+    "assetId": "tel-hbd-ktn-24-1225",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ktn-25-1225",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "重なるパーティー",
+    "assetId": "tel-hbd-ktn-25-1225",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mei-21-0707",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "今日はなんの日でしょー？",
+    "assetId": "tel-hbd-mei-21-0707",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mei-22-0707",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "ドーナツパクパク",
+    "assetId": "tel-hbd-mei-22-0707",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mei-23-0707",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "家族揃って",
+    "assetId": "tel-hbd-mei-23-0707",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mei-24-0707",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "照れ屋さんだ～",
+    "assetId": "tel-hbd-mei-24-0707",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mei-25-0707",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "毎日お誕生日制度",
+    "assetId": "tel-hbd-mei-25-0707",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mhk-23-0125",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "埒が明かない",
+    "assetId": "tel-hbd-mhk-23-0125",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mhk-24-0125",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "やたらと祝いたがりますね",
+    "assetId": "tel-hbd-mhk-24-0125",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mhk-25-0125",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "特別扱いしなくて結構です",
+    "assetId": "tel-hbd-mhk-25-0125",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-mhk-26-0125",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "油断大敵",
+    "assetId": "tel-hbd-mhk-26-0125",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ngs-21-0803",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "プレゼントのお礼",
+    "assetId": "tel-hbd-ngs-21-0803",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ngs-22-0803",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "危険なプレゼント",
+    "assetId": "tel-hbd-ngs-22-0803",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ngs-23-0803",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "大事な話",
+    "assetId": "tel-hbd-ngs-23-0803",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ngs-24-0803",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "最後の締めを下さい",
+    "assetId": "tel-hbd-ngs-24-0803",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ngs-25-0803",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "明日からダイエット",
+    "assetId": "tel-hbd-ngs-25-0803",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rei-22-0308",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "大事に取っておきます",
+    "assetId": "tel-hbd-rei-22-0308",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rei-23-0308",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "マカロンのついでに",
+    "assetId": "tel-hbd-rei-23-0308",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rei-24-0308",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "エサをあげてる気分",
+    "assetId": "tel-hbd-rei-24-0308",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rei-25-0308",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "不器用なところも",
+    "assetId": "tel-hbd-rei-25-0308",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rei-26-0308",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "私って？",
+    "assetId": "tel-hbd-rei-26-0308",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rio-21-0828",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "信じられないプレゼント",
+    "assetId": "tel-hbd-rio-21-0828",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rio-22-0828",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "お灸",
+    "assetId": "tel-hbd-rio-22-0828",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rio-23-0828",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "次の休みは？",
+    "assetId": "tel-hbd-rio-23-0828",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rio-24-0828",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "いい人過ぎて心配だわ",
+    "assetId": "tel-hbd-rio-24-0828",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rio-25-0828",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "岡山に顔を見せに",
+    "assetId": "tel-hbd-rio-25-0828",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rui-21-1111",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "明太子味のグミ",
+    "assetId": "tel-hbd-rui-21-1111",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rui-22-1111",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "プレゼントは冷蔵庫に",
+    "assetId": "tel-hbd-rui-22-1111",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rui-23-1111",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "勝手にメッセしたた",
+    "assetId": "tel-hbd-rui-23-1111",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rui-24-1111",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "ひとつお聞きしたい",
+    "assetId": "tel-hbd-rui-24-1111",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-rui-25-1111",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "母に会って",
+    "assetId": "tel-hbd-rui-25-1111",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ski-21-0926",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "お掃除の後に",
+    "assetId": "tel-hbd-ski-21-0926",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ski-22-0926",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "袋の底の方にも",
+    "assetId": "tel-hbd-ski-22-0926",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ski-23-0926",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "話したいこと",
+    "assetId": "tel-hbd-ski-23-0926",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ski-24-0926",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "好みの傾向の資料化",
+    "assetId": "tel-hbd-ski-24-0926",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-ski-25-0926",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "少し夜更かしを",
+    "assetId": "tel-hbd-ski-25-0926",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-skr-22-0403",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "伝われー！",
+    "assetId": "tel-hbd-skr-22-0403",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-skr-23-0403",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "ビックリさせちゃいました？",
+    "assetId": "tel-hbd-skr-23-0403",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-skr-24-0403",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "気持ちがあふれちゃって！",
+    "assetId": "tel-hbd-skr-24-0403",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-skr-25-0403",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "スルメのようです！",
+    "assetId": "tel-hbd-skr-25-0403",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-skr-26-0403",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "かみがた！",
+    "assetId": "tel-hbd-skr-26-0403",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-smr-22-0505",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "夢で学ぶ英単語",
+    "assetId": "tel-hbd-smr-22-0505",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-smr-23-0505",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "まぶしいくらいピッカピカ",
+    "assetId": "tel-hbd-smr-23-0505",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-smr-24-0505",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "トリエル水入らず",
+    "assetId": "tel-hbd-smr-24-0505",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-smr-25-0505",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "主役のお願い",
+    "assetId": "tel-hbd-smr-25-0505",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-suz-21-0913",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "開封の儀",
+    "assetId": "tel-hbd-suz-21-0913",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-suz-22-0913",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "焼肉の名店",
+    "assetId": "tel-hbd-suz-22-0913",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-suz-23-0913",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "言ってませんわ！",
+    "assetId": "tel-hbd-suz-23-0913",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-suz-24-0913",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "ピザの気分ですわね",
+    "assetId": "tel-hbd-suz-24-0913",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-suz-25-0913",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "ファンからのおめでとう",
+    "assetId": "tel-hbd-suz-25-0913",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-szk-21-1015",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "星見プロの底力",
+    "assetId": "tel-hbd-szk-21-1015",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-szk-22-1015",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "だからアイスマン",
+    "assetId": "tel-hbd-szk-22-1015",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-szk-23-1015",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "お祝いのお便り",
+    "assetId": "tel-hbd-szk-23-1015",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-szk-24-1015",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "優しさで出来てる",
+    "assetId": "tel-hbd-szk-24-1015",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-szk-25-1015",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "クラスでおめでとう",
+    "assetId": "tel-hbd-szk-25-1015",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-yu-22-0227",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "ホンマ無粋やなあ",
+    "assetId": "tel-hbd-yu-22-0227",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-yu-23-0227",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "ホンマに偶然やって",
+    "assetId": "tel-hbd-yu-23-0227",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-yu-24-0227",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "欲張ってもええねんで？",
+    "assetId": "tel-hbd-yu-24-0227",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-yu-25-0227",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "そういうとこやで",
+    "assetId": "tel-hbd-yu-25-0227",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-hbd-yu-26-0227",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "うちの性",
+    "assetId": "tel-hbd-yu-26-0227",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-love-mei-24-0517",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "『もし恋』TRUEエンド",
+    "assetId": "tel-mei-love-01",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-love-ngs-23-1114",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "『もし恋』TRUEエンド",
+    "assetId": "tel-ngs-love-01",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-love-rei-23-0514",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "『もし恋』TRUEエンド",
+    "assetId": "tel-rei-love-01",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-love-yu-24-1114",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "『もし恋』TRUEエンド",
+    "assetId": "tel-yu-love-01",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-love-yu-26-0318",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "『もし恋』TRUEエンド",
+    "assetId": "tel-rio-love-01",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ai-000-003",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "自然な表情って？",
+    "assetId": "tel-message-story-ai-000-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ai-001-001",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "私強そう事件＠お台場",
+    "assetId": "tel-message-story-ai-001-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ai-002-001",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "マンツーマン",
+    "assetId": "tel-message-story-ai-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ai-003-004",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "板前感",
+    "assetId": "tel-message-story-ai-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ai-004-003",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "大き過ぎませんか！？",
+    "assetId": "tel-message-story-ai-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ai-005-003",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "余裕を持ちたいです！",
+    "assetId": "tel-message-story-ai-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-aoi-000-002",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "楽しく踊りたいだけなのに",
+    "assetId": "tel-message-story-aoi-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-aoi-001-003",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "歌のレッスン",
+    "assetId": "tel-message-story-aoi-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-aoi-002-001",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "沸点が低い",
+    "assetId": "tel-message-story-aoi-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-aoi-003-003",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "カニカマと犬",
+    "assetId": "tel-message-story-aoi-003-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-aoi-004-003",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "いい声で鳴くんだね",
+    "assetId": "tel-message-story-aoi-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-aoi-005-003",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "お兄ちゃん君",
+    "assetId": "tel-message-story-aoi-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-chs-000-002",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "怖いディレクターさん",
+    "assetId": "tel-message-story-chs-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-chs-001-001",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "クビの危機",
+    "assetId": "tel-message-story-chs-001-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-chs-002-001",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "締切カンヅメ大作戦",
+    "assetId": "tel-message-story-chs-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-chs-003-004",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "ヘビに睨まれたカエル",
+    "assetId": "tel-message-story-chs-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-chs-004-003",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "見習いたいあの姿",
+    "assetId": "tel-message-story-chs-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-chs-005-003",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "丑の刻参りもどき",
+    "assetId": "tel-message-story-chs-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-hrk-000-002",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "就活戦線",
+    "assetId": "tel-message-story-hrk-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-hrk-001-002",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "オール平均点",
+    "assetId": "tel-message-story-hrk-001-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-hrk-002-001",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "遙子のダンスのキレ",
+    "assetId": "tel-message-story-hrk-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-hrk-003-003",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "キャンプのお仕事",
+    "assetId": "tel-message-story-hrk-003-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-hrk-004-003",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "小悪魔マネージャー",
+    "assetId": "tel-message-story-hrk-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-hrk-005-004",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "キラキラの17歳",
+    "assetId": "tel-message-story-hrk-005-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kan-000-003",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "テレビに出たい",
+    "assetId": "tel-message-story-kan-000-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kan-001-004",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "スリーショット作戦",
+    "assetId": "tel-message-story-kan-001-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kan-002-004",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "旅番組に出たい",
+    "assetId": "tel-message-story-kan-002-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kan-003-003",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "名演技でした",
+    "assetId": "tel-message-story-kan-003-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kan-004-002",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "どっちが子供？",
+    "assetId": "tel-message-story-kan-004-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kan-005-003",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "電車移動のBIG4",
+    "assetId": "tel-message-story-kan-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kkr-000-002",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "おこ崎こころ",
+    "assetId": "tel-message-story-kkr-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kkr-001-002",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "ほめ殺しのこころ",
+    "assetId": "tel-message-story-kkr-001-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kkr-002-001",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "胸きゅるるんポーズ",
+    "assetId": "tel-message-story-kkr-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kkr-003-003",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "個性を伸ばそう",
+    "assetId": "tel-message-story-kkr-003-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kkr-004-003",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "アイドル大運動会！",
+    "assetId": "tel-message-story-kkr-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kkr-005-003",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "ここにゃん",
+    "assetId": "tel-message-story-kkr-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kor-000-003",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "コスパ悪い",
+    "assetId": "tel-message-story-kor-000-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kor-001-003",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "耳を傾ける？",
+    "assetId": "tel-message-story-kor-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kor-002-003",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "背に腹はかえられない",
+    "assetId": "tel-message-story-kor-002-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kor-003-004",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "おすすめの銘柄",
+    "assetId": "tel-message-story-kor-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kor-004-003",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "読みたい漫画",
+    "assetId": "tel-message-story-kor-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-kor-005-003",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "かおりんの通販",
+    "assetId": "tel-message-story-kor-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ktn-000-003",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "アイドルのゴール",
+    "assetId": "tel-message-story-ktn-000-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ktn-001-003",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "私に怖いイメージがある",
+    "assetId": "tel-message-story-ktn-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ktn-002-002",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "月ストップアイドル",
+    "assetId": "tel-message-story-ktn-002-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ktn-003-001",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "私が出来る子ぶった事件",
+    "assetId": "tel-message-story-ktn-003-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ktn-004-003",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "相談できる相手",
+    "assetId": "tel-message-story-ktn-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ktn-005-004",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "寮での生活",
+    "assetId": "tel-message-story-ktn-005-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mei-000-001",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "麻奈の夢",
+    "assetId": "tel-message-story-mei-000-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mei-001-001",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "特殊能力",
+    "assetId": "tel-message-story-mei-001-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mei-002-001",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "いいとこをつぶしちゃダメ",
+    "assetId": "tel-message-story-mei-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mei-003-004",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "過ぎ去る時間",
+    "assetId": "tel-message-story-mei-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mei-004-003",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "猫ちゃんアレルギー",
+    "assetId": "tel-message-story-mei-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mei-005-003",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "ぽっこりしない理由",
+    "assetId": "tel-message-story-mei-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mhk-000-002",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "三枝さんに密告大作戦",
+    "assetId": "tel-message-story-mhk-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mhk-001-003",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "kanaの暴言",
+    "assetId": "tel-message-story-mhk-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mhk-002-002",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "芸名を変えようかと",
+    "assetId": "tel-message-story-mhk-002-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mhk-003-003",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "ぼんやりとは見えてる",
+    "assetId": "tel-message-story-mhk-003-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mhk-004-003",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "やけに絡まれます",
+    "assetId": "tel-message-story-mhk-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mhk-005-003",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "メガネ割れた",
+    "assetId": "tel-message-story-mhk-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mna-000-001",
+    "messageGroupId": "message_group_mna",
+    "characterId": "char-mna",
+    "name": "星降る奇跡の話",
+    "assetId": "tel-message-story-mna-000-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mna-001-001",
+    "messageGroupId": "message_group_mna",
+    "characterId": "char-mna",
+    "name": "発想の転換",
+    "assetId": "tel-message-story-mna-001-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mna-002-003",
+    "messageGroupId": "message_group_mna",
+    "characterId": "char-mna",
+    "name": "一字一句見逃したくない",
+    "assetId": "tel-message-story-mna-002-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-mna-003-004",
+    "messageGroupId": "message_group_mna",
+    "characterId": "char-mna",
+    "name": "キミの笑顔",
+    "assetId": "tel-message-story-mna-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ngs-000-003",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "怒られちゃった",
+    "assetId": "tel-message-story-ngs-000-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ngs-001-003",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "こっそりゆず風呂",
+    "assetId": "tel-message-story-ngs-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ngs-002-004",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "爪痕を残したい",
+    "assetId": "tel-message-story-ngs-002-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ngs-003-002",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "星見トピックス",
+    "assetId": "tel-message-story-ngs-003-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ngs-004-002",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "渚のラブストーリー",
+    "assetId": "tel-message-story-ngs-004-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ngs-005-003",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "星見高校組",
+    "assetId": "tel-message-story-ngs-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rei-000-002",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "怜と両親",
+    "assetId": "tel-message-story-rei-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rei-001-004",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "アドバイスの工夫",
+    "assetId": "tel-message-story-rei-001-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rei-002-001",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "ダンス狂い",
+    "assetId": "tel-message-story-rei-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rei-003-004",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "ダンスの壁",
+    "assetId": "tel-message-story-rei-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rei-004-003",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "アルバイトがしたいです",
+    "assetId": "tel-message-story-rei-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rei-005-003",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "早起きしないと",
+    "assetId": "tel-message-story-rei-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rio-000-001",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "会食",
+    "assetId": "tel-message-story-rio-000-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rio-001-003",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "保護者同伴",
+    "assetId": "tel-message-story-rio-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rio-002-002",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "コミュニケーション",
+    "assetId": "tel-message-story-rio-002-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rio-003-004",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "リズノワのイメージ",
+    "assetId": "tel-message-story-rio-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rio-004-003",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "料理の女王",
+    "assetId": "tel-message-story-rio-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rio-005-003",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "将来は…",
+    "assetId": "tel-message-story-rio-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rui-000-001",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "学校の意味",
+    "assetId": "tel-message-story-rui-000-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rui-001-003",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "夜遊び禁止",
+    "assetId": "tel-message-story-rui-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rui-002-003",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "街歩き",
+    "assetId": "tel-message-story-rui-002-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rui-003-002",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "眠り姫",
+    "assetId": "tel-message-story-rui-003-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rui-004-003",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "すずの物置き",
+    "assetId": "tel-message-story-rui-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-rui-005-003",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "一週間もちません",
+    "assetId": "tel-message-story-rui-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ski-000-003",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "怒ってしまった",
+    "assetId": "tel-message-story-ski-000-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ski-001-003",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "寮の惨状",
+    "assetId": "tel-message-story-ski-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ski-002-001",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "読書の楽しみ",
+    "assetId": "tel-message-story-ski-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ski-003-002",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "ロボットダンス感",
+    "assetId": "tel-message-story-ski-003-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ski-004-003",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "アイドルが好きなんです！",
+    "assetId": "tel-message-story-ski-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-ski-005-003",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "自分の時間",
+    "assetId": "tel-message-story-ski-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-skr-000-002",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "さくらの定期健診",
+    "assetId": "tel-message-story-skr-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-skr-001-003",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "なかよし大作戦",
+    "assetId": "tel-message-story-skr-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-skr-002-001",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "グッズ案の締め切り",
+    "assetId": "tel-message-story-skr-002-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-skr-003-003",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "さくらの感覚",
+    "assetId": "tel-message-story-skr-003-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-skr-004-003",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "渚ちゃんと一緒に",
+    "assetId": "tel-message-story-skr-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-skr-005-003",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "さくさくとんかつ",
+    "assetId": "tel-message-story-skr-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-smr-000-002",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "芋掘り大会",
+    "assetId": "tel-message-story-smr-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-smr-001-002",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "都会の流行",
+    "assetId": "tel-message-story-smr-001-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-smr-002-002",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "お日さまみたいな優しさ",
+    "assetId": "tel-message-story-smr-002-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-smr-003-001",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "果物PR",
+    "assetId": "tel-message-story-smr-003-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-smr-004-003",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "憧れの街",
+    "assetId": "tel-message-story-smr-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-smr-005-003",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "中学生特有の",
+    "assetId": "tel-message-story-smr-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-suz-000-004",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "緊張しちゃう",
+    "assetId": "tel-message-story-suz-000-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-suz-001-001",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "ダベデジダワ～！",
+    "assetId": "tel-message-story-suz-001-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-suz-002-003",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "星降る奇跡の名を継ぐ者",
+    "assetId": "tel-message-story-suz-002-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-suz-003-001",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "地球の裏側まで",
+    "assetId": "tel-message-story-suz-003-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-suz-004-003",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "宿題が終わりませんわ！",
+    "assetId": "tel-message-story-suz-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-suz-005-003",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "中学生組大人決定戦",
+    "assetId": "tel-message-story-suz-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-szk-000-003",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "自信喪失",
+    "assetId": "tel-message-story-szk-000-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-szk-001-003",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "アイドルMCあるある",
+    "assetId": "tel-message-story-szk-001-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-szk-002-003",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "私のハートが迷子のまま",
+    "assetId": "tel-message-story-szk-002-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-szk-003-004",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "兵藤フィッシングクラブ",
+    "assetId": "tel-message-story-szk-003-004",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-szk-004-003",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "星見市のラッパー",
+    "assetId": "tel-message-story-szk-004-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-szk-005-003",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "目指せ磯のアイスマン",
+    "assetId": "tel-message-story-szk-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-yu-000-002",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "オフの優",
+    "assetId": "tel-message-story-yu-000-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-yu-001-001",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "はんなりとこてこて",
+    "assetId": "tel-message-story-yu-001-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-yu-002-002",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "今月イチのご褒美",
+    "assetId": "tel-message-story-yu-002-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-yu-003-001",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "ほめ殺し",
+    "assetId": "tel-message-story-yu-003-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-yu-004-002",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "瑠依パミンが足りない",
+    "assetId": "tel-message-story-yu-004-002",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-message-story-yu-005-003",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "ゆうなぎ大作戦",
+    "assetId": "tel-message-story-yu-005-003",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-ai-22-0801",
+    "messageGroupId": "message_group_ai",
+    "characterId": "char-ai",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-ai-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-aoi-22-0801",
+    "messageGroupId": "message_group_aoi",
+    "characterId": "char-aoi",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-aoi-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-chs-22-1101",
+    "messageGroupId": "message_group_chs",
+    "characterId": "char-chs",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-chs-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-hrk-22-1101",
+    "messageGroupId": "message_group_hrk",
+    "characterId": "char-hrk",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-hrk-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-kan-23-0110",
+    "messageGroupId": "message_group_kan",
+    "characterId": "char-kan",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-kan-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-kkr-22-0801",
+    "messageGroupId": "message_group_kkr",
+    "characterId": "char-kkr",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-kkr-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-kor-23-0110",
+    "messageGroupId": "message_group_kor",
+    "characterId": "char-kor",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-kor-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-ktn-22-1004",
+    "messageGroupId": "message_group_ktn",
+    "characterId": "char-ktn",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-ktn-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-mei-22-1004",
+    "messageGroupId": "message_group_mei",
+    "characterId": "char-mei",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-mei-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-mhk-23-0110",
+    "messageGroupId": "message_group_mhk",
+    "characterId": "char-mhk",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-mhk-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-ngs-22-1004",
+    "messageGroupId": "message_group_ngs",
+    "characterId": "char-ngs",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-ngs-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-rei-22-1101",
+    "messageGroupId": "message_group_rei",
+    "characterId": "char-rei",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-rei-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-rio-22-0801",
+    "messageGroupId": "message_group_rio",
+    "characterId": "char-rio",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-rio-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-rui-22-0630",
+    "messageGroupId": "message_group_rui",
+    "characterId": "char-rui",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-rui-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-ski-22-1004",
+    "messageGroupId": "message_group_ski",
+    "characterId": "char-ski",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-ski-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-skr-22-1101",
+    "messageGroupId": "message_group_skr",
+    "characterId": "char-skr",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-skr-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-smr-22-0630",
+    "messageGroupId": "message_group_smr",
+    "characterId": "char-smr",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-smr-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-suz-22-1004",
+    "messageGroupId": "message_group_suz",
+    "characterId": "char-suz",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-suz-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-szk-22-1101",
+    "messageGroupId": "message_group_szk",
+    "characterId": "char-szk",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-szk-001",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "tel-suntory-yu-22-0630",
+    "messageGroupId": "message_group_yu",
+    "characterId": "char-yu",
+    "name": "お疲れ様電話",
+    "assetId": "tel-suntory-yu-001",
+    "unlockConditionId": ""
+  }
+]

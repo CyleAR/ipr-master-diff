@@ -1,0 +1,578 @@
+[
+  {
+    "id": "love-event-story-25-0426-001",
+    "loveId": "love-extra-25-0426",
+    "episode": 1,
+    "storyId": "st-love-25-0426-001",
+    "assetId": "love_2505_01_01",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-002",
+    "loveId": "love-extra-25-0426",
+    "episode": 2,
+    "storyId": "st-love-25-0426-002",
+    "assetId": "love_2505_02_01",
+    "consumptionItemAmount": 2000
+  },
+  {
+    "id": "love-event-story-25-0426-003-magical",
+    "loveId": "love-extra-25-0426",
+    "episode": 3,
+    "storyId": "st-love-25-0426-003-magical",
+    "assetId": "love_2505_03_02",
+    "consumptionItemAmount": 3000
+  },
+  {
+    "id": "love-event-story-25-0426-003-succubus",
+    "loveId": "love-extra-25-0426",
+    "episode": 3,
+    "storyId": "st-love-25-0426-003-succubus",
+    "assetId": "love_2505_03_01",
+    "consumptionItemAmount": 3000
+  },
+  {
+    "id": "love-event-story-25-0426-004-magical-ngs",
+    "loveId": "love-extra-25-0426",
+    "episode": 4,
+    "storyId": "st-love-25-0426-004-magical-ngs",
+    "assetId": "love_2505_04_04",
+    "consumptionItemAmount": 4000
+  },
+  {
+    "id": "love-event-story-25-0426-004-magical-smr",
+    "loveId": "love-extra-25-0426",
+    "episode": 4,
+    "storyId": "st-love-25-0426-004-magical-smr",
+    "assetId": "love_2505_04_03",
+    "consumptionItemAmount": 4000
+  },
+  {
+    "id": "love-event-story-25-0426-004-succubus-chs",
+    "loveId": "love-extra-25-0426",
+    "episode": 4,
+    "storyId": "st-love-25-0426-004-succubus-chs",
+    "assetId": "love_2505_04_02",
+    "consumptionItemAmount": 4000
+  },
+  {
+    "id": "love-event-story-25-0426-004-succubus-rui",
+    "loveId": "love-extra-25-0426",
+    "episode": 4,
+    "storyId": "st-love-25-0426-004-succubus-rui",
+    "assetId": "love_2505_04_01",
+    "consumptionItemAmount": 4000
+  },
+  {
+    "id": "love-event-story-25-0426-005-bad-end",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-bad-end",
+    "assetId": "love_2505_05_10",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-happy-end",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-happy-end",
+    "assetId": "love_2505_05_09",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-magical-ngs-bad",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-magical-ngs-bad",
+    "assetId": "love_2505_05_08",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-magical-ngs-good",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-magical-ngs-good",
+    "assetId": "love_2505_05_07",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-magical-smr-bad",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-magical-smr-bad",
+    "assetId": "love_2505_05_06",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-magical-smr-good",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-magical-smr-good",
+    "assetId": "love_2505_05_05",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-succubus-chs-bad",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-succubus-chs-bad",
+    "assetId": "love_2505_05_04",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-succubus-chs-good",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-succubus-chs-good",
+    "assetId": "love_2505_05_03",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-succubus-rui-bad",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-succubus-rui-bad",
+    "assetId": "love_2505_05_02",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-25-0426-005-succubus-rui-good",
+    "loveId": "love-extra-25-0426",
+    "episode": 5,
+    "storyId": "st-love-25-0426-005-succubus-rui-good",
+    "assetId": "love_2505_05_01",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-love-23-0514-001",
+    "loveId": "love-23-0514",
+    "episode": 1,
+    "storyId": "st-love-23-0514-001",
+    "assetId": "love-story-23-0514-001",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-love-23-0514-002",
+    "loveId": "love-23-0514",
+    "episode": 2,
+    "storyId": "st-love-23-0514-002",
+    "assetId": "love-story-23-0514-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-003",
+    "loveId": "love-23-0514",
+    "episode": 3,
+    "storyId": "st-love-23-0514-003",
+    "assetId": "love-story-23-0514-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-004",
+    "loveId": "love-23-0514",
+    "episode": 4,
+    "storyId": "st-love-23-0514-004",
+    "assetId": "love-story-23-0514-004",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-005",
+    "loveId": "love-23-0514",
+    "episode": 5,
+    "storyId": "st-love-23-0514-005",
+    "assetId": "love-story-23-0514-005",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-006",
+    "loveId": "love-23-0514",
+    "episode": 6,
+    "storyId": "st-love-23-0514-006",
+    "assetId": "love-story-23-0514-006",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-007",
+    "loveId": "love-23-0514",
+    "episode": 7,
+    "storyId": "st-love-23-0514-007",
+    "assetId": "love-story-23-0514-007",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-007-bad",
+    "loveId": "love-23-0514",
+    "episode": 7,
+    "storyId": "st-love-23-0514-007-bad",
+    "assetId": "love-story-23-0514-008-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-008-bad",
+    "loveId": "love-23-0514",
+    "episode": 8,
+    "storyId": "st-love-23-0514-008-bad",
+    "assetId": "love-story-23-0514-008-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-008-happy",
+    "loveId": "love-23-0514",
+    "episode": 8,
+    "storyId": "st-love-23-0514-008-happy",
+    "assetId": "love-story-23-0514-008-001",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-0514-008-normal",
+    "loveId": "love-23-0514",
+    "episode": 8,
+    "storyId": "st-love-23-0514-008-normal",
+    "assetId": "love-story-23-0514-008-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-001",
+    "loveId": "love-23-1114",
+    "episode": 1,
+    "storyId": "st-love-23-1114-001",
+    "assetId": "love-story-23-1114-001",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-love-23-1114-002",
+    "loveId": "love-23-1114",
+    "episode": 2,
+    "storyId": "st-love-23-1114-002",
+    "assetId": "love-story-23-1114-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-003",
+    "loveId": "love-23-1114",
+    "episode": 3,
+    "storyId": "st-love-23-1114-003",
+    "assetId": "love-story-23-1114-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-004",
+    "loveId": "love-23-1114",
+    "episode": 4,
+    "storyId": "st-love-23-1114-004",
+    "assetId": "love-story-23-1114-004",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-005",
+    "loveId": "love-23-1114",
+    "episode": 5,
+    "storyId": "st-love-23-1114-005",
+    "assetId": "love-story-23-1114-005",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-006",
+    "loveId": "love-23-1114",
+    "episode": 6,
+    "storyId": "st-love-23-1114-006",
+    "assetId": "love-story-23-1114-006",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-007",
+    "loveId": "love-23-1114",
+    "episode": 7,
+    "storyId": "st-love-23-1114-007",
+    "assetId": "love-story-23-1114-007",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-007-bad",
+    "loveId": "love-23-1114",
+    "episode": 7,
+    "storyId": "st-love-23-1114-007-bad",
+    "assetId": "love-story-23-1114-008-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-008-bad",
+    "loveId": "love-23-1114",
+    "episode": 8,
+    "storyId": "st-love-23-1114-008-bad",
+    "assetId": "love-story-23-1114-008-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-008-happy",
+    "loveId": "love-23-1114",
+    "episode": 8,
+    "storyId": "st-love-23-1114-008-happy",
+    "assetId": "love-story-23-1114-008-001",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-23-1114-008-normal",
+    "loveId": "love-23-1114",
+    "episode": 8,
+    "storyId": "st-love-23-1114-008-normal",
+    "assetId": "love-story-23-1114-008-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-001",
+    "loveId": "love-24-0517",
+    "episode": 1,
+    "storyId": "st-love-24-0517-001",
+    "assetId": "love-story-24-0517-001",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-love-24-0517-002",
+    "loveId": "love-24-0517",
+    "episode": 2,
+    "storyId": "st-love-24-0517-002",
+    "assetId": "love-story-24-0517-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-003",
+    "loveId": "love-24-0517",
+    "episode": 3,
+    "storyId": "st-love-24-0517-003",
+    "assetId": "love-story-24-0517-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-004",
+    "loveId": "love-24-0517",
+    "episode": 4,
+    "storyId": "st-love-24-0517-004",
+    "assetId": "love-story-24-0517-004",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-005",
+    "loveId": "love-24-0517",
+    "episode": 5,
+    "storyId": "st-love-24-0517-005",
+    "assetId": "love-story-24-0517-005",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-006",
+    "loveId": "love-24-0517",
+    "episode": 6,
+    "storyId": "st-love-24-0517-006",
+    "assetId": "love-story-24-0517-006",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-007",
+    "loveId": "love-24-0517",
+    "episode": 7,
+    "storyId": "st-love-24-0517-007",
+    "assetId": "love-story-24-0517-007",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-007-bad",
+    "loveId": "love-24-0517",
+    "episode": 7,
+    "storyId": "st-love-24-0517-007-bad",
+    "assetId": "love-story-24-0517-007",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-008-bad",
+    "loveId": "love-24-0517",
+    "episode": 8,
+    "storyId": "st-love-24-0517-008-bad",
+    "assetId": "love-story-24-0517-008-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-008-happy",
+    "loveId": "love-24-0517",
+    "episode": 8,
+    "storyId": "st-love-24-0517-008-happy",
+    "assetId": "love-story-24-0517-008-001",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-0517-008-normal",
+    "loveId": "love-24-0517",
+    "episode": 8,
+    "storyId": "st-love-24-0517-008-normal",
+    "assetId": "love-story-24-0517-008-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-001",
+    "loveId": "love-24-1114",
+    "episode": 1,
+    "storyId": "st-love-24-1114-001",
+    "assetId": "love-story-24-1114-001",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-love-24-1114-002",
+    "loveId": "love-24-1114",
+    "episode": 2,
+    "storyId": "st-love-24-1114-002",
+    "assetId": "love-story-24-1114-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-003",
+    "loveId": "love-24-1114",
+    "episode": 3,
+    "storyId": "st-love-24-1114-003",
+    "assetId": "love-story-24-1114-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-004",
+    "loveId": "love-24-1114",
+    "episode": 4,
+    "storyId": "st-love-24-1114-004",
+    "assetId": "love-story-24-1114-004",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-004-bad",
+    "loveId": "love-24-1114",
+    "episode": 7,
+    "storyId": "st-love-24-1114-004-bad",
+    "assetId": "love-story-24-1114-004",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-005",
+    "loveId": "love-24-1114",
+    "episode": 5,
+    "storyId": "st-love-24-1114-005",
+    "assetId": "love-story-24-1114-005",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-006",
+    "loveId": "love-24-1114",
+    "episode": 6,
+    "storyId": "st-love-24-1114-006",
+    "assetId": "love-story-24-1114-006",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-007",
+    "loveId": "love-24-1114",
+    "episode": 7,
+    "storyId": "st-love-24-1114-007",
+    "assetId": "love-story-24-1114-007",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-008-bad",
+    "loveId": "love-24-1114",
+    "episode": 8,
+    "storyId": "st-love-24-1114-008-bad",
+    "assetId": "love-story-24-1114-008-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-008-happy",
+    "loveId": "love-24-1114",
+    "episode": 8,
+    "storyId": "st-love-24-1114-008-happy",
+    "assetId": "love-story-24-1114-008-001",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-24-1114-008-normal",
+    "loveId": "love-24-1114",
+    "episode": 8,
+    "storyId": "st-love-24-1114-008-normal",
+    "assetId": "love-story-24-1114-008-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-001",
+    "loveId": "love-26-0313",
+    "episode": 1,
+    "storyId": "st-love-26-0313-001",
+    "assetId": "love-story-26-0313-001",
+    "consumptionItemAmount": 0
+  },
+  {
+    "id": "love-event-story-love-26-0313-002",
+    "loveId": "love-26-0313",
+    "episode": 2,
+    "storyId": "st-love-26-0313-002",
+    "assetId": "love-story-26-0313-002",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-003",
+    "loveId": "love-26-0313",
+    "episode": 3,
+    "storyId": "st-love-26-0313-003",
+    "assetId": "love-story-26-0313-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-004",
+    "loveId": "love-26-0313",
+    "episode": 4,
+    "storyId": "st-love-26-0313-004",
+    "assetId": "love-story-26-0313-004",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-005",
+    "loveId": "love-26-0313",
+    "episode": 5,
+    "storyId": "st-love-26-0313-005",
+    "assetId": "love-story-26-0313-005",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-006",
+    "loveId": "love-26-0313",
+    "episode": 6,
+    "storyId": "st-love-26-0313-006",
+    "assetId": "love-story-26-0313-006",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-007",
+    "loveId": "love-26-0313",
+    "episode": 7,
+    "storyId": "st-love-26-0313-007",
+    "assetId": "love-story-26-0313-007",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-008-bad",
+    "loveId": "love-26-0313",
+    "episode": 8,
+    "storyId": "st-love-26-0313-008-bad",
+    "assetId": "love-story-26-0313-008-003",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-008-happy",
+    "loveId": "love-26-0313",
+    "episode": 8,
+    "storyId": "st-love-26-0313-008-happy",
+    "assetId": "love-story-26-0313-008-001",
+    "consumptionItemAmount": 5000
+  },
+  {
+    "id": "love-event-story-love-26-0313-008-normal",
+    "loveId": "love-26-0313",
+    "episode": 8,
+    "storyId": "st-love-26-0313-008-normal",
+    "assetId": "love-story-26-0313-008-002",
+    "consumptionItemAmount": 5000
+  }
+]
