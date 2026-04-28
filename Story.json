@@ -10878,6 +10878,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-mna-05-snro-00-01",
+    "name": "それじゃあ、\n紹介するね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_10_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-snro-00-02",
+    "name": "まるで\n夢みたい！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_10_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-snro-00-03",
+    "name": "素敵な夢を\n見てたんだよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_10_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-mna-05-vlnt-00-01",
     "name": "経験ないのに",
     "rewardId": "rd_auto;stone;;30",
@@ -18978,6 +19032,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-szk-05-snro-00-01",
+    "name": "シナモン\nくん達との\n思い出",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_13_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-snro-00-02",
+    "name": "シナモン\nくん、\n遊園地だよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_13_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-snro-00-03",
+    "name": "ふわふわな\n手を握ると",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_13_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-szk-05-yukt-00-01",
     "name": "憧れの浴衣\nデビュー",
     "rewardId": "rd_auto;stone;;30",
@@ -20292,6 +20400,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-ai-01-08",
+    "name": "中太麺が\n待って\nます！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_ai_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-aoi-01-01",
     "name": "マッスル\nなんでしょ？",
     "rewardId": "rd_auto;stone;;30",
@@ -20408,6 +20534,24 @@
     ],
     "advAssetIds": [
       "bond_aoi_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-aoi-01-08",
+    "name": "アイスの蓋は舐めない",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_aoi_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -20544,6 +20688,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-chs-01-08",
+    "name": "頑張れ、\n白石千紗！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_chs_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-hrk-01-01",
     "name": "遙子\n困っちゃう！",
     "rewardId": "rd_auto;stone;;30",
@@ -20660,6 +20822,24 @@
     ],
     "advAssetIds": [
       "bond_hrk_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-hrk-01-08",
+    "name": "私、太った\nかしら……？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_hrk_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -20796,6 +20976,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-kan-01-08",
+    "name": "イラついて\n寝れねーわ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_kan_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-kkr-01-01",
     "name": "ふわぁ～\nむにゃむにゃ\n……",
     "rewardId": "rd_auto;stone;;30",
@@ -20912,6 +21110,24 @@
     ],
     "advAssetIds": [
       "bond_kkr_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-kkr-01-08",
+    "name": "開けて下さいよー！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_kkr_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -21048,6 +21264,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-kor-01-08",
+    "name": "漫画みたいに手が伸びれば",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_kor_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-ktn-01-01",
     "name": "おやすみ",
     "rewardId": "rd_auto;stone;;30",
@@ -21164,6 +21398,24 @@
     ],
     "advAssetIds": [
       "bond_ktn_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-ktn-01-08",
+    "name": "星を見て\nほしい\nのに",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_ktn_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -21300,6 +21552,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-mei-01-08",
+    "name": "デートかも？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_mei_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-mhk-01-01",
     "name": "性悪どもの\n癖が",
     "rewardId": "rd_auto;stone;;30",
@@ -21416,6 +21686,24 @@
     ],
     "advAssetIds": [
       "bond_mhk_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-mhk-01-08",
+    "name": "ファンの笑顔のために",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_mhk_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -21552,6 +21840,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-ngs-01-08",
+    "name": "私の憧れなんですから！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_ngs_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-rei-01-01",
     "name": "一ノ瀬怜、\n完全復活っ！",
     "rewardId": "rd_auto;stone;;30",
@@ -21668,6 +21974,24 @@
     ],
     "advAssetIds": [
       "bond_rei_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-rei-01-08",
+    "name": "キャッスル\nで～んき～",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_rei_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -21804,6 +22128,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-rio-01-08",
+    "name": "上はいいの……？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_rio_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-rui-01-01",
     "name": "穴があったら\n入りたい",
     "rewardId": "rd_auto;stone;;30",
@@ -21920,6 +22262,24 @@
     ],
     "advAssetIds": [
       "bond_rui_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-rui-01-08",
+    "name": "やましい\nことはない\nはずなのに",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_rui_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -22056,6 +22416,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-ski-01-08",
+    "name": "Myインク\nです",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_ski_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-skr-01-01",
     "name": "急げ\n急げー！！",
     "rewardId": "rd_auto;stone;;30",
@@ -22172,6 +22550,24 @@
     ],
     "advAssetIds": [
       "bond_skr_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-skr-01-08",
+    "name": "びっくり\nした、\nっちゃ？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_skr_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -22308,6 +22704,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-smr-01-08",
+    "name": "私の\nお兄ちゃん\nは……！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_smr_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-suz-01-01",
     "name": "私のお姉さま",
     "rewardId": "rd_auto;stone;;30",
@@ -22424,6 +22838,24 @@
     ],
     "advAssetIds": [
       "bond_suz_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-suz-01-08",
+    "name": "最愛の麻奈様メドレー",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_suz_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -22560,6 +22992,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-company-bond-szk-01-08",
+    "name": "イエス、\nマッスルー！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_szk_01_08"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-company-bond-yu-01-01",
     "name": "元の\n瑠依ちゃん\nに戻って",
     "rewardId": "rd_auto;stone;;30",
@@ -22676,6 +23126,24 @@
     ],
     "advAssetIds": [
       "bond_yu_01_07"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-company-bond-yu-01-08",
+    "name": "BARIYABAI",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "bond_yu_01_08"
     ],
     "sectionName": "",
     "description": "",
@@ -28577,6 +29045,75 @@
       "char-rei",
       "char-aoi",
       "char-mei"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2605-marathon-raid-001",
+    "name": "キティちゃん\n達！？",
+    "description": "とある遊園地のショーに出ることとなった、kana、こころ、雫、瑠依の四人。ただ、打ち合わせの最中に、なんだか眠くなってきてしまい……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_01"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-kitty",
+      "char-cinnamo",
+      "char-melody",
+      "char-kuromi"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2605-marathon-raid-002",
+    "name": "かわいい、\nなかよく、\nおもいやり",
+    "description": "kana達は、夢の世界の遊園地で、なんとキティちゃん達と出会うことに。現実世界では時間は経たないようなので、一同は一緒に遊ぶことにするのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_02"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-kitty",
+      "char-cinnamo",
+      "char-melody",
+      "char-kuromi"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2605-marathon-raid-003",
+    "name": "夢でつながる\nミラクル\nステージ",
+    "description": "メンバー達は、夢の遊園地でキティちゃん達とショーをすることに。みんなで、仲良く、楽しくパフォーマンスをする中で、kanaは昔のことを思い出し――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_03"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-kitty",
+      "char-cinnamo",
+      "char-melody",
+      "char-kuromi"
     ],
     "sectionName": "",
     "branchFirstText": "",
@@ -48907,6 +49444,60 @@
     "advAssetIds": [
       "event_2604_01_05_01",
       "event_2604_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0427-001-001",
+    "name": "キティ\nちゃん達\n！？",
+    "description": "とある遊園地のショーに出ることとなった、kana、こころ、雫、瑠依の四人。ただ、打ち合わせの最中に、なんだか眠くなってきてしまい……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0427-001-002",
+    "name": "かわいい、\nなかよく、\nおもいやり",
+    "description": "kana達は、夢の世界の遊園地で、なんとキティちゃん達と出会うことに。現実世界では時間は経たないようなので、一同は一緒に遊ぶことにするのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0427-001-003",
+    "name": "夢でつながる\nミラクル\nステージ",
+    "description": "メンバー達は、夢の遊園地でキティちゃん達とショーをすることに。みんなで、仲良く、楽しくパフォーマンスをする中で、kanaは昔のことを思い出し――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_03"
     ],
     "sectionName": "",
     "rewardId": "",
