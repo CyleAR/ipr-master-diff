@@ -255,6 +255,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近愛は疲れが溜まっているみたいだ\nお出掛けに誘って、\nリフレッシュしてもらおう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -500,6 +501,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_aoi_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_aoi_idle-001-start_in",
     "gachaMovieName": "AOI",
+    "excursionFirstText": "最近、\n葵が退屈そうにしている気がする\n仕事終わりに、どこかに誘ってみよう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "unlockConditionId": "",
@@ -644,7 +646,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-chk",
@@ -784,7 +787,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-chn",
@@ -923,7 +927,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-chs",
@@ -1187,6 +1192,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近、千紗のスケジュールが詰まり気味だ\n仕事終わりに、\nどこかで息抜きしてもらおう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -1252,7 +1258,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-gyo",
@@ -1311,7 +1318,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-haruhi",
@@ -1370,7 +1378,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-hrk",
@@ -1633,6 +1642,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近遙子さんは疲れが溜まっているみたいだ\nお出掛けに誘って、\nリフレッシュしてもらおう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -1697,7 +1707,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-kan",
@@ -1959,6 +1970,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近kanaさんのスケジュールが詰まってるな\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
     "enName": "",
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
@@ -2023,7 +2035,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-kkr",
@@ -2263,6 +2276,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_kkr_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kkr_idle-001-start_in",
     "gachaMovieName": "KOKORO",
+    "excursionFirstText": "最近こころの元気がないみたいだ\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -2398,7 +2412,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-konazusa",
@@ -2457,7 +2472,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-konmio",
@@ -2516,7 +2532,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-konmugi",
@@ -2575,7 +2592,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-konritsu",
@@ -2634,7 +2652,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-konyui",
@@ -2693,7 +2712,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-kor",
@@ -2931,6 +2951,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_kor_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kor_idle-001-start_in",
     "gachaMovieName": "FRAN",
+    "excursionFirstText": "franさん、なんだか元気がないな。\n嫌がられるかもしれないが、\n仕事後にどこか誘ってみるか",
     "enName": "",
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
@@ -3183,6 +3204,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_ktn_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ktn_idle-001-start_in",
     "gachaMovieName": "KOTONO",
+    "excursionFirstText": "最近、\n琴乃はあまり息抜き出来ていないようだ\n仕事終わりに、どこかに誘ってみよう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -3248,7 +3270,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-kyon",
@@ -3307,7 +3330,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-kyui",
@@ -3366,7 +3390,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-lala",
@@ -3425,7 +3450,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-mei",
@@ -3687,6 +3713,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近、\n芽衣はあまり息抜き出来ていないようだ\n仕事が終わったら、どこかに誘ってみよう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -3751,7 +3778,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-mhk",
@@ -3992,6 +4020,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_mhk_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_mhk_idle-001-start_in",
     "gachaMovieName": "MIHO",
+    "excursionFirstText": "最近mihoさんは疲れが溜まっているみたいだ\n誘いにくいが、\n勇気を出して気分転換してもらおう",
     "enName": "",
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
@@ -4058,7 +4087,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-mku",
@@ -4210,7 +4240,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-mna",
@@ -4374,7 +4405,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-mng",
@@ -4439,7 +4471,8 @@
     "isHomeDanceTarget": false,
     "companyEnjoyStories": [],
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-momo",
@@ -4498,7 +4531,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-ngs",
@@ -4769,6 +4803,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近渚は疲れが溜まっているみたいだ\nお出掛けに誘って、\nリフレッシュしてもらおう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -5037,6 +5072,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近怜のスケジュールが詰まってるな\n今日の仕事帰りにでも\nリフレッシュしてもらおう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -5182,7 +5218,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-rio",
@@ -5446,6 +5483,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近莉央さんが疲れ気味だな\n今日の仕事帰りに\n息抜きでも誘ってみよう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -5720,6 +5758,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "瑠依の表情に疲れが見えるぞ\nこれは仕事後に、\n息抜きでもさせた方が良さそうだな",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -5966,6 +6005,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_ski_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ski_idle-001-start_in",
     "gachaMovieName": "SAKI",
+    "excursionFirstText": "最近、沙季のスケジュールが詰まり気味だ\n仕事終わりに、\nどこかでリフレッシュしてもらおう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -6212,6 +6252,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "gachaMovieName": "SAKURA",
+    "excursionFirstText": "どうやらさくらが疲れ気味みたいだな。\n仕事が終わったら、\nリフレッシュにどこかへ連れて行こう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "unlockConditionId": "",
@@ -6486,6 +6527,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近、\nすみれはあまり息抜き出来ていないようだ\n仕事終わりに、どこかに連れて行ってあげよう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -6620,7 +6662,8 @@
     "isHomeDanceTarget": false,
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-stm1",
@@ -6680,7 +6723,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-stm2",
@@ -6740,7 +6784,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-stm3",
@@ -6800,7 +6845,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-stm4",
@@ -6860,7 +6906,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-stm5",
@@ -6920,7 +6967,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-suz",
@@ -7162,6 +7210,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_suz_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_suz_idle-001-start_in",
     "gachaMovieName": "SUZU",
+    "excursionFirstText": "最近仕事が詰まっててすずが疲れ気味だな\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
@@ -7413,6 +7462,7 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_szk_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_szk_idle-001-start_in",
     "gachaMovieName": "SHIZUKU",
+    "excursionFirstText": "最近、雫はあまり息抜き出来ていないようだ\n今日の仕事帰りにでも、\nどこかに誘ってみよう",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "facePositionX": 0.0,
@@ -7547,7 +7597,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-yami",
@@ -7606,7 +7657,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-ymk",
@@ -7756,7 +7808,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-yo",
@@ -7896,7 +7949,8 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   },
   {
     "id": "char-yu",
@@ -8155,6 +8209,7 @@
         "nameRegex": ""
       }
     ],
+    "excursionFirstText": "最近優のスケジュールが詰まってるな\n今日の仕事終わりに\n息抜きにでも誘ってみるか",
     "heightCorrectionPermil": 0,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
@@ -8221,6 +8276,7 @@
     "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "loveInfos": [],
+    "excursionFirstText": ""
   }
 ]
